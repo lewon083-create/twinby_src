@@ -72,8 +72,6 @@
   - **APK repackaging**: `android:debuggable=true` → Flutter использует debug-сборку libflutter.so с символами
   - **Frida Gadget**: встроить gadget в APK
   - **Dart-уровень**: хук `HttpClient.badCertificateCallback`
-  - **System certificate**: установить CA в системное хранилище (для Java-трафика)
-  - **iptables + transparent proxy**: перенаправление трафика без расшифровки TLS
 
 **Рекомендуемый подход**: APK repackaging с `android:debuggable=true` + user CA certificate + v3 скрипт для Java-слоя.
 
