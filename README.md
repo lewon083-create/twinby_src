@@ -3,7 +3,7 @@
 ## Содержимое репозитория
 
 ### `base.apk`
-Оригинальный APK-файл приложения **Twinby** (`com.twinby`) — Flutter (Embedding v2), minSdk=24, targetSdk=36.
+Оригинальный APK-файл приложения **Twinby** (`com.twinby`) — Flutter (Embedding v2), minSdk=24, targetSdk=36. При желании его также можно декомпилировать самостоятельно через `jadx -d <output_dir> base.apk`.
 
 ### `apk-src/`
 Декомпилированный исходный код `base.apk`, полученный через **jadx**. Содержит:
