@@ -13,22 +13,17 @@
 
 ---
 
-## SSL Pinning Bypass — работа с Frida (вне репозитория)
-
-> **Важно**: Frida-скрипты не включены в коммит. Ниже — описание того, что было сделано
-> в процессе анализа, что не сработало, и предполагаемая задача на написание
-> корректного скрипта. Сами скрипты и отчёт хранятся локально в рабочей директории.
+## SSL Pinning Bypass — работа с Frida
 
 ### Архитектура SSL/TLS в Twinby
 
-Приложение использует **4 независимых сетевых слоя**:
+Приложение использует **3 независимых сетевых слоя**:
 
 | Слой | Технология | Комментарий |
 |------|-----------|-------------|
 | **1. Dart HttpClient** | `dart:io` → BoringSSL в `libflutter.so` | Основной трафик API. Свой root store (не Android). `network_security_config.xml` не влияет. |
 | **2. OkHttp (Java)** | `zk.u` (обфусцированный OkHttpClient) | VK SDK, Yandex Varioqub. |
-| **3. Yandex Ads SDK** | `yads.qu2` (X509ExtendedTrustManager) + `yads.mw2` | Кастомный TrustManager с fallback на pinned-сертификаты из ресурсов APK. |
-| **4. Android System** | `RootTrustManager` / `TrustManagerImpl` / Conscrypt | Стандартная проверка через `network_security_config.xml`. |
+| **3. Android System** | `RootTrustManager` / `TrustManagerImpl` / Conscrypt | Стандартная проверка через `network_security_config.xml`. |
 
 ### Что было создано (версии скриптов)
 
@@ -37,7 +32,7 @@
 | **v4** (оригинальный) | ❌ Неработоспособен | 3 критических бага: бесконечная рекурсия `SSLContext.init`, каскадная рекурсия `makePermissiveSSF()`, HttpsURLConnection рекурсия |
 | **v2** (первая попытка) | ❌ Отклонён | 2 fatal regression: `SSLContext.init` сделан no-op (контекст не инициализируется), `onLeave` запись нулей в случайные смещения `SSL_CTX` (повреждение памяти) |
 | **v3** (исправленный) | ✅ Синтаксически корректен | Основная стратегия: `TMF.getTrustManagers()` — единая точка инъекции. `SSLContext.init` не трогается. `RootTrustManager` + `Conscrypt` → noop. |
-| **v3.1** (расширенный) | ⚠️ Требует проверки | Добавлены: нативные хуки `exit()` / `_exit()` / `abort()` для блокировки PairIP kill, pattern-scan stripped `libflutter.so`. |
+| **v3.1** (расширенный) | ❌ Некорректно | Native `exit()` hook блокирует PairIP kill, но сам перехват через `Interceptor.replace` может вызвать `StackOverflowError` при рекурсивных вызовах `exit()`. Pattern-scan ненадёжен: байты функций BoringSSL различаются между версиями `libflutter.so`, матч первого же совпадения по 64 байтам не гарантирует корректный адрес. |
 
 ### Что НЕ сработало
 
@@ -55,7 +50,6 @@
 - `TrustManagerFactory.getTrustManagers()` → возвращает permissive TrustManager (все сертификаты доверенны)
 - `RootTrustManager.checkServerTrusted` (все overloads) → noop
 - `Conscrypt TrustManagerImpl.checkServerTrusted` (все overloads) → noop
-- `yads.qu2.checkServerTrusted` (все overloads) → noop
 - OkHttp `hl.n.m()` / `hl.n.l()` → permissive
 - `PairIP LicenseClient.checkLicense` → noop
 - `PairIP LicenseClient.performLocalInstallerCheck` → return true
@@ -72,23 +66,6 @@
 
 **Рекомендуемый подход**: APK repackaging с `android:debuggable=true` + user CA certificate + v3 скрипт для Java-слоя.
 
-### Инструкция по запуску (для тестирующих)
-
-Скрипт и отчёт передаются отдельно. Запуск и проверка на реальном устройстве выполняются на стороне тестирующего.
-
-```bash
-# Рекомендуемый способ (spawn mode):
-frida -U -f com.twinby -l frida_bypass_ssl_pinning_v3.js --no-pause
-
-# Attach mode:
-frida -U com.twinby -l frida_bypass_ssl_pinning_v3.js
-# После загрузки — перезапустить приложение вручную
-```
-
-**Необходимо также**:
-- Установить CA-сертификат прокси (Burp/Charles) как **system certificate** на устройство (Android 7+ требует system certs для targetSdk ≥ 24)
-- Либо использовать Magisk модуль `MoveCertificate`
-
 ---
 
 ## Ключевые обфусцированные классы
@@ -99,5 +76,3 @@ frida -U com.twinby -l frida_bypass_ssl_pinning_v3.js
 | `zk.t` | OkHttpClient.Builder |
 | `hl.n` | OkHttp Platform (Android) |
 | `ll.c` | OkHttp HostnameVerifier |
-| `yads.qu2` | Yandex Ads TrustManager |
-| `yads.mw2` | Yandex Ads delegate |

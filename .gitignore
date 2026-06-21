@@ -6,4 +6,9 @@
 !apk-src/
 !apk-src/**
 !README.md
+!frida_bypass_ssl_pinning.js
+!frida_bypass_ssl_pinning_v2.js
+!frida_bypass_ssl_pinning_v3.js
+!frida_bypass_ssl_pinning_v3_1.js
+!SSL_PINNING_BYPASS_REPORT.md
 !.gitignore
