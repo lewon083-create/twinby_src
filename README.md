@@ -11,6 +11,17 @@
 - Ресурсы (`res/`), включая `res/xml/network_security_config.xml`
 - Flutter assets и нативные библиотеки
 
+### Frida-скрипты SSL Pinning Bypass
+4 версии скриптов для обхода SSL-пиннинга в Twinby + подробный отчёт с анализом архитектуры:
+
+| Файл | Описание |
+|------|----------|
+| `frida_bypass_ssl_pinning.js` | v4 — оригинальный скрипт (❌ неработоспособен) |
+| `frida_bypass_ssl_pinning_v2.js` | v2 — первая попытка исправления (❌ отклонён) |
+| `frida_bypass_ssl_pinning_v3.js` | v3 — Oracle-fixed (✅ синтаксически корректен) |
+| `frida_bypass_ssl_pinning_v3_1.js` | v3.1 — расширенная версия с pattern-scan (❌ некорректно) |
+| `SSL_PINNING_BYPASS_REPORT.md` | Полный анализ архитектуры SSL/TLS и всех версий скриптов |
+
 ---
 
 ## SSL Pinning Bypass — работа с Frida
