@@ -1,0 +1,41 @@
+{
+  "id": "9615692601764741139",
+  "deck": {
+    "id": "929374750136369153",
+    "title": "New Year's pack",
+    "description": "New Year's pack",
+    "cardsCount": 10,
+    "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+    "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+    "isPremium": false
+  },
+  "ownerId": "925392086322479105",
+  "createdAt": "2024-04-19T09:14:10.174032Z",
+  "updatedAt": "2024-04-19T09:14:10.174032Z",
+  "status": 0,
+  "deckOrder": 1,
+  "unreadMessagesCount": 0,
+  "interlocutor": {
+    "id": "925398284558237697",
+    "name": "tttr",
+    "online": false,
+    "avatar": {
+      "id": "925398377726935041",
+      "file": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/scaledphoto2023-11-2321-37-03.webp",
+      "type": "photo",
+      "faceLtwh": [],
+      "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/5c63eae2-3aa7-4df4-869f-13cd8868a7ab-preview.webp"
+    }
+  },
+  "lastCard": {
+    "id": "925398284558237697",
+    "ownerId": "982398284558637622",
+    "text": "Text",
+    "type": "",
+    "createdAt": "2024-04-19T09:14:10.174032Z",
+    "updatedAt": "2024-04-19T09:14:10.174032Z",
+    "approved": false,
+    "isUnread": false,
+    "isBlur": false
+  }
+}

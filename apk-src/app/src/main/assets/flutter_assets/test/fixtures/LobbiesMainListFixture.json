@@ -1,0 +1,776 @@
+{
+  "incomingLobbies": [
+    {
+      "id": "961569260176474113",
+      "deck": {
+        "id": "929374750136369153",
+        "title": "New Year's pack",
+        "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+        "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+        "isPremium": false
+      },
+      "ownerId": "925392086322479105",
+      "createdAt": "2024-04-19T09:14:10.174032Z",
+      "updatedAt": "2024-04-19T09:14:10.174032Z",
+      "status": 0,
+      "unreadMessagesCount": 0,
+      "interlocutor": {
+        "id": "925398284558237697",
+        "name": "tttr",
+        "avatar": {
+          "id": "925398377726935041",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/scaledphoto2023-11-2321-37-03.webp",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/5c63eae2-3aa7-4df4-869f-13cd8868a7ab-preview.webp"
+        }
+      },
+      "lastCard": {
+        "ownerId": "",
+        "text": "",
+        "approved": false,
+        "type": null,
+        "isUnread": false,
+        "isBlur": false
+      }
+    },
+    {
+      "id": "96156926017647411332",
+      "deck": {
+        "id": "929374750136369153",
+        "title": "New Year's pack",
+        "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+        "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+        "isPremium": false
+      },
+      "ownerId": "92539208632247910534",
+      "createdAt": "2024-04-19T09:14:10.174032Z",
+      "updatedAt": "2024-04-19T09:14:10.174032Z",
+      "status": 0,
+      "unreadMessagesCount": 0,
+      "interlocutor": {
+        "id": "92539828455823769743",
+        "name": "tttr",
+        "avatar": {
+          "id": "925398377726935041",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/scaledphoto2023-11-2321-37-03.webp",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/5c63eae2-3aa7-4df4-869f-13cd8868a7ab-preview.webp"
+        }
+      },
+      "lastCard": {
+        "ownerId": "",
+        "text": "",
+        "approved": false,
+        "type": null,
+        "isUnread": false,
+        "isBlur": false
+      }
+    }
+  ],
+  "outgoingLobbies": [
+    {
+      "id": "96156926017647411311",
+      "deck": {
+        "id": "929374750136369153",
+        "title": "New Year's pack",
+        "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+        "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+        "isPremium": false
+      },
+      "ownerId": "925392086322479105",
+      "createdAt": "2024-04-19T09:14:10.174032Z",
+      "updatedAt": "2024-04-19T09:14:10.174032Z",
+      "status": 0,
+      "unreadMessagesCount": 0,
+      "interlocutor": {
+        "id": "925398284558237697",
+        "name": "tttr",
+        "avatar": {
+          "id": "925398377726935041",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/scaledphoto2023-11-2321-37-03.webp",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/5c63eae2-3aa7-4df4-869f-13cd8868a7ab-preview.webp"
+        }
+      },
+      "lastCard": {
+        "ownerId": "",
+        "text": "",
+        "approved": false,
+        "type": null,
+        "isUnread": false,
+        "isBlur": false
+      }
+    }
+  ],
+  "activeLobbies": [
+    {
+      "id": "96156926017643274113",
+      "deck": {
+        "id": "929374750136369153",
+        "title": "New Year's pack",
+        "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+        "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+        "isPremium": false
+      },
+      "ownerId": "925392086322479105",
+      "createdAt": "2024-04-19T09:14:10.174032Z",
+      "updatedAt": "2024-04-19T09:14:10.174032Z",
+      "status": 0,
+      "unreadMessagesCount": 10,
+      "interlocutor": {
+        "id": "925398284558237697",
+        "name": "tttr",
+        "avatar": {
+          "id": "925398377726935041",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/scaledphoto2023-11-2321-37-03.webp",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/5c63eae2-3aa7-4df4-869f-13cd8868a7ab-preview.webp"
+        }
+      },
+      "lastCard": {
+        "ownerId": "",
+        "text": "",
+        "approved": false,
+        "type": null,
+        "isUnread": false,
+        "isBlur": false
+      }
+    }
+  ],
+  "decks": [
+    {
+      "id": "928687668894269441",
+      "title": "Truth or date?",
+      "description": "Answer the questions until one of you declines. The loser has to ask the other on a date!",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pravda-ili-svidanie.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pravda-ili-svidanie.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929030180777885697",
+      "title": "Psychology",
+      "description": "Questions you might hear in a psychologist's office or during family therapy. Let's explore ourselve",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/psihologiya.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/psihologiya.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "928686535234355201",
+      "title": "Fetishes",
+      "description": "Things are heating up in this chat. Shall we explore our sexual compatibility? Read the name of the ",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/fetishi.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/fetishi.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929034820522213379",
+      "title": "Let's ask the stars?",
+      "description": "Two esotericists crossed paths once. One said, \"Shall we discuss our perspective on the universe's?”",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/sprosim-u-zvezd.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/sprosim-u-zvezd.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929374750136369153",
+      "title": "New Year's pack",
+      "description": "We found a new pack of holiday questions under the tree. Discuss the holiday with the date!",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": false
+    },
+    {
+      "id": "929035095113138177",
+      "title": "I’m a blogger",
+      "description": "A set of questions about the most contemporary profession: even if neither you nor your partner has ",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya---bloger.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya---bloger.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929032120406867969",
+      "title": "Genders",
+      "description": "What does \"be a real woman\" mean or \"behave like a man\" mean? Let's discuss stereotypes.",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/genderyi.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/genderyi.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929031203042230273",
+      "title": "Routine",
+      "description": "These little things surround us every day. It's time to pay attention to them!",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/byitovuha.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/byitovuha.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929035660175572995",
+      "title": "Hot news🔥",
+      "description": "Are you fond of gossip? It seems like you and your partner have a lot to discuss.",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-nyus.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-nyus.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929032400382558211",
+      "title": "Hobby",
+      "description": "Concerts, friends, and hobbies are a significant part of our lives. Tell more about them.",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hobbi.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hobbi.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929030933737472001",
+      "title": "Future",
+      "description": "Family, children, relationships... It's a serious matter. Let's envision what our future might look ",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/buduschee.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/buduschee.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929030515734380545",
+      "title": "Tell me a story",
+      "description": "Our lives are comprised of numerous small stories. Tell me about your favorite one!",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/rasskazhi-istoriyu.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/rasskazhi-istoriyu.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929034542144684033",
+      "title": "Journeys",
+      "description": "Do you plan your trips or prefer to leave some space for spontaneity? Let's talk about traveling",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/puteshestviya.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/puteshestviya.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929029788279603203",
+      "title": "I'm not perfect",
+      "description": "Each of us has flaws. Shall we discuss them?",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-ne-idealen.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-ne-idealen.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929029254355648513",
+      "title": "Dreams",
+      "description": "What constitutes an ideal life? Dreams can be the first step towards achieving it.",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/mechtyi.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/mechtyi.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929035394098888705",
+      "title": "Media",
+      "description": "Movies, TV shows, games — let's see if our tastes align",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/media.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/media.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "928686829929103361",
+      "title": "HOT 18+",
+      "description": "Open HOT cards while your partner is right beside you. Explore each other's, and we'll lend a hand i",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-18.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-18.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929031596921815041",
+      "title": "Finance",
+      "description": "Yes, we are adults, and dealing with paperwork and finance is part of life. So, how do you handle it",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/finansyi.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/finansyi.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "929031829416247297",
+      "title": "Long-distance relationships",
+      "description": "There may be thousands of kilometers between us, but here are 50 questions to help us bridge the dis",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/otnosheniya-na-rasstoyanii.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/otnosheniya-na-rasstoyanii.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    },
+    {
+      "id": "928687135763562499",
+      "title": "I’ve never…",
+      "description": "Are you convinced that you've experienced everything life has to offer? Let's put that to the test n",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-nikogda-ne.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-nikogda-ne.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    }
+  ],
+  "promotedDecks": [
+    {
+      "id": "928680014780661763",
+      "title": "Let's talk about the frank? 18+",
+      "description": "Romance, relationships, and sex. Let's open up to each other, shall we?",
+      "color": "",
+      "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pogovorim-ob-otkrovennom.png",
+      "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pogovorim-ob-otkrovennom.jpg",
+      "cardsCount": 50,
+      "active": true,
+      "comingSoon": false,
+      "preview": null,
+      "isPremium": true
+    }
+  ],
+  "categories": [
+    {
+      "category": {
+        "id": "927673645562331139",
+        "title": "Let’s talk",
+        "active": true,
+        "order": 0
+      },
+      "decks": [
+        {
+          "id": "929374750136369153",
+          "title": "New Year's pack",
+          "description": "We found a new pack of holiday questions under the tree. Discuss the holiday with the date!",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": false
+        },
+        {
+          "id": "883766662891896833",
+          "title": "First Step",
+          "description": "Begin by discovering your partner's identity. Answer the questions and assess the similarities in your worldviews.",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/znakomstvo.webp",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/znakomstvo.jpg",
+          "cardsCount": 100,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": false
+        },
+        {
+          "id": "883780361783148545",
+          "title": "Mix",
+          "description": "100 questions on a variety of topics. Perfect for those who want to discuss every life aspect!",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/miks.webp",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/miks.jpg",
+          "cardsCount": 100,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": false
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": "927881296473784323",
+        "title": "For brave ones",
+        "active": true,
+        "order": 1
+      },
+      "decks": [
+        {
+          "id": "928686535234355201",
+          "title": "Fetishes",
+          "description": "Things are heating up in this chat. Shall we explore our sexual compatibility? Read the name of the ",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/fetishi.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/fetishi.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "928686829929103361",
+          "title": "HOT 18+",
+          "description": "Open HOT cards while your partner is right beside you. Explore each other's, and we'll lend a hand i",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-18.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-18.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "928680014780661763",
+          "title": "Let's talk about the frank? 18+",
+          "description": "Romance, relationships, and sex. Let's open up to each other, shall we?",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pogovorim-ob-otkrovennom.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pogovorim-ob-otkrovennom.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "928687668894269441",
+          "title": "Truth or date?",
+          "description": "Answer the questions until one of you declines. The loser has to ask the other on a date!",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pravda-ili-svidanie.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/pravda-ili-svidanie.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "928687135763562499",
+          "title": "I’ve never…",
+          "description": "Are you convinced that you've experienced everything life has to offer? Let's put that to the test n",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-nikogda-ne.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-nikogda-ne.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": "927881381152423937",
+        "title": "Personal talk",
+        "active": true,
+        "order": 2
+      },
+      "decks": [
+        {
+          "id": "929029788279603203",
+          "title": "I'm not perfect",
+          "description": "Each of us has flaws. Shall we discuss them?",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-ne-idealen.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya-ne-idealen.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929030515734380545",
+          "title": "Tell me a story",
+          "description": "Our lives are comprised of numerous small stories. Tell me about your favorite one!",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/rasskazhi-istoriyu.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/rasskazhi-istoriyu.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929029254355648513",
+          "title": "Dreams",
+          "description": "What constitutes an ideal life? Dreams can be the first step towards achieving it.",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/mechtyi.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/mechtyi.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929030180777885697",
+          "title": "Psychology",
+          "description": "Questions you might hear in a psychologist's office or during family therapy. Let's explore ourselve",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/psihologiya.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/psihologiya.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": "927881458191859713",
+        "title": "Let’s get serious ",
+        "active": true,
+        "order": 3
+      },
+      "decks": [
+        {
+          "id": "929032120406867969",
+          "title": "Genders",
+          "description": "What does \"be a real woman\" mean or \"behave like a man\" mean? Let's discuss stereotypes.",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/genderyi.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/genderyi.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929031203042230273",
+          "title": "Routine",
+          "description": "These little things surround us every day. It's time to pay attention to them!",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/byitovuha.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/byitovuha.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929031596921815041",
+          "title": "Finance",
+          "description": "Yes, we are adults, and dealing with paperwork and finance is part of life. So, how do you handle it",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/finansyi.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/finansyi.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929030933737472001",
+          "title": "Future",
+          "description": "Family, children, relationships... It's a serious matter. Let's envision what our future might look ",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/buduschee.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/buduschee.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929031829416247297",
+          "title": "Long-distance relationships",
+          "description": "There may be thousands of kilometers between us, but here are 50 questions to help us bridge the dis",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/otnosheniya-na-rasstoyanii.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/otnosheniya-na-rasstoyanii.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        }
+      ]
+    },
+    {
+      "category": {
+        "id": "927881526062972931",
+        "title": "Mix of topics",
+        "active": true,
+        "order": 4
+      },
+      "decks": [
+        {
+          "id": "929035394098888705",
+          "title": "Media",
+          "description": "Movies, TV shows, games — let's see if our tastes align",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/media.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/media.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929034820522213379",
+          "title": "Let's ask the stars?",
+          "description": "Two esotericists crossed paths once. One said, \"Shall we discuss our perspective on the universe's?”",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/sprosim-u-zvezd.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/sprosim-u-zvezd.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929035660175572995",
+          "title": "Hot news🔥",
+          "description": "Are you fond of gossip? It seems like you and your partner have a lot to discuss.",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-nyus.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hot-nyus.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929035095113138177",
+          "title": "I’m a blogger",
+          "description": "A set of questions about the most contemporary profession: even if neither you nor your partner has ",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya---bloger.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/ya---bloger.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929032400382558211",
+          "title": "Hobby",
+          "description": "Concerts, friends, and hobbies are a significant part of our lives. Tell more about them.",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hobbi.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/hobbi.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        },
+        {
+          "id": "929034542144684033",
+          "title": "Journeys",
+          "description": "Do you plan your trips or prefer to leave some space for spontaneity? Let's talk about traveling",
+          "color": "",
+          "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/puteshestviya.png",
+          "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/puteshestviya.jpg",
+          "cardsCount": 50,
+          "active": true,
+          "comingSoon": false,
+          "preview": null,
+          "isPremium": true
+        }
+      ]
+    }
+  ],
+  "countOfRequestedIncomingLobbies": 2,
+  "countOfRequestedOutgoingLobbies": 1,
+  "countOfActiveLobbies": 1,
+  "isHistoryAvailable": false
+}

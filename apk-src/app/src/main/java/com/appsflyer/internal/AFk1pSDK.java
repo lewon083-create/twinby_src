@@ -1,0 +1,13 @@
+package com.appsflyer.internal;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes.dex */
+public final class AFk1pSDK {
+    public int AFAdRevenueData;
+    public int component2;
+    public int component3;
+    public char getCurrencyIso4217Code;
+    public int getMediationNetwork;
+    public int getMonetizationNetwork;
+    public char getRevenue;
+}

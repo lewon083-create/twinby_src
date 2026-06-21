@@ -1,0 +1,124 @@
+package io.sentry.android.core.internal.gestures;
+
+import android.view.ActionMode;
+import android.view.KeyEvent;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.MotionEvent;
+import android.view.SearchEvent;
+import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
+import android.view.accessibility.AccessibilityEvent;
+import androidx.annotation.NonNull;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes2.dex */
+public final class NoOpWindowCallback implements Window.Callback {
+    @Override // android.view.Window.Callback
+    public boolean dispatchGenericMotionEvent(MotionEvent motionEvent) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean dispatchKeyEvent(KeyEvent keyEvent) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean dispatchKeyShortcutEvent(KeyEvent keyEvent) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean dispatchPopulateAccessibilityEvent(AccessibilityEvent accessibilityEvent) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean dispatchTouchEvent(MotionEvent motionEvent) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean dispatchTrackballEvent(MotionEvent motionEvent) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean onCreatePanelMenu(int i, @NonNull Menu menu) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public View onCreatePanelView(int i) {
+        return null;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean onMenuItemSelected(int i, @NonNull MenuItem menuItem) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean onMenuOpened(int i, @NonNull Menu menu) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean onPreparePanel(int i, View view, @NonNull Menu menu) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean onSearchRequested() {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public ActionMode onWindowStartingActionMode(ActionMode.Callback callback) {
+        return null;
+    }
+
+    @Override // android.view.Window.Callback
+    public boolean onSearchRequested(SearchEvent searchEvent) {
+        return false;
+    }
+
+    @Override // android.view.Window.Callback
+    public ActionMode onWindowStartingActionMode(ActionMode.Callback callback, int i) {
+        return null;
+    }
+
+    @Override // android.view.Window.Callback
+    public void onAttachedToWindow() {
+    }
+
+    @Override // android.view.Window.Callback
+    public void onContentChanged() {
+    }
+
+    @Override // android.view.Window.Callback
+    public void onDetachedFromWindow() {
+    }
+
+    @Override // android.view.Window.Callback
+    public void onActionModeFinished(ActionMode actionMode) {
+    }
+
+    @Override // android.view.Window.Callback
+    public void onActionModeStarted(ActionMode actionMode) {
+    }
+
+    @Override // android.view.Window.Callback
+    public void onWindowAttributesChanged(WindowManager.LayoutParams layoutParams) {
+    }
+
+    @Override // android.view.Window.Callback
+    public void onWindowFocusChanged(boolean z5) {
+    }
+
+    @Override // android.view.Window.Callback
+    public void onPanelClosed(int i, @NonNull Menu menu) {
+    }
+}

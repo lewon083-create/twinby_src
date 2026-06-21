@@ -1,0 +1,16 @@
+{
+  "id": "524901",
+  "name": "Moscow",
+  "country": {
+    "id": "2017370",
+    "name": "Russia",
+    "tld": "ru",
+    "currency": "RUB",
+    "phone": "+7"
+  },
+  "region": {
+    "id": "524894",
+    "name": "Moscow"
+  },
+  "subregion": null
+}

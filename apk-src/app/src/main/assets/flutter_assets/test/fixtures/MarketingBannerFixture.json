@@ -1,0 +1,67 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "title": "some_basnner",
+      "text": "banner text",
+      "icon": "https://storage.yandexcloud.net/twinby-dev/banners/colorful_macos_big_sur_apple-wallpaper-2560x1440.jpg",
+      "buttonText": "button",
+      "buttonUrl": "https://dev5-api.twinby.tech/swagger/",
+      "colorRgb": "#FFFFFF",
+      "background": null,
+      "place": {
+        "id": "948836311324688385",
+        "placeName": "profile",
+        "description": "profile place"
+      },
+      "id": "1"
+    },
+    {
+      "title": "some_basnner",
+      "text": "banner text",
+      "icon": "https://storage.yandexcloud.net/twinby-dev/banners/colorful_macos_big_sur_apple-wallpaper-2560x1440.jpg",
+      "buttonText": "button",
+      "buttonUrl": "https://dev5-api.twinby.tech/swagger/",
+      "colorRgb": "#FFFFFF",
+      "background": null,
+      "place": {
+        "id": "948836311324688385",
+        "placeName": "profile",
+        "description": "profile place"
+      },
+      "id": "2"
+    },
+    {
+      "title": "some_basnner",
+      "text": "banner text",
+      "icon": "https://storage.yandexcloud.net/twinby-dev/banners/colorful_macos_big_sur_apple-wallpaper-2560x1440.jpg",
+      "buttonText": "button",
+      "buttonUrl": "https://dev5-api.twinby.tech/swagger/",
+      "colorRgb": "#FFFFFF",
+      "background": null,
+      "place": {
+        "id": "948836311324688385",
+        "placeName": "profile",
+        "description": "profile place"
+      },
+      "id": "3"
+    },
+    {
+      "title": "some_basnner",
+      "text": "banner text",
+      "icon": "https://storage.yandexcloud.net/twinby-dev/banners/colorful_macos_big_sur_apple-wallpaper-2560x1440.jpg",
+      "buttonText": "button",
+      "buttonUrl": "https://dev5-api.twinby.tech/swagger/",
+      "colorRgb": "#FFFFFF",
+      "background": null,
+      "place": {
+        "id": "948836311324688385",
+        "placeName": "profile",
+        "description": "profile place"
+      },
+      "id": "4"
+    }
+  ]
+}

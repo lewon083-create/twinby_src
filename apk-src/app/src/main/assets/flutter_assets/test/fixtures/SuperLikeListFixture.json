@@ -1,0 +1,91 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "953427082469638147",
+      "user": {
+        "id": "888817310906155010",
+        "name": "\u041c\u0430\u043a\u0441\u0438\u043c",
+        "avatar": {
+          "id": "888817638473957378",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/888817310906155010/scaled1689689688278.jpg",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/888817310906155010/scaled1689689688278-preview.jpeg"
+        },
+        "ages": 20,
+        "distance": 1388,
+        "verified": false,
+        "compatibility": 54,
+        "online": false,
+        "gender": "m",
+        "isPremium": false
+      },
+      "createdAt": "2024-03-21T15:00:54.755656Z",
+      "isRead": false,
+      "type": 0,
+      "isSuperLike": true,
+      "message": "Hello!",
+      "isOpen": null,
+      "isPremium": false
+    },
+    {
+      "id": "953426987871633409",
+      "user": {
+        "id": "891702409764143107",
+        "name": "\u0415\u0433\u043e\u0440",
+        "avatar": {
+          "id": "891702634710859778",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/891702409764143107/scaledpxl202307091433492222.jpg",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/891702409764143107/scaledpxl202307091433492222-preview.jpeg"
+        },
+        "ages": 27,
+        "distance": 950,
+        "verified": false,
+        "compatibility": 76,
+        "online": false,
+        "gender": "m",
+        "isPremium": false
+      },
+      "createdAt": "2024-03-21T15:00:25.884582Z",
+      "isRead": false,
+      "type": 0,
+      "isSuperLike": true,
+      "message": "Hello!",
+      "isOpen": null,
+      "isPremium": false
+    },
+    {
+      "id": "953426906069729283",
+      "user": {
+        "id": "888652616298856449",
+        "name": "Valera",
+        "avatar": {
+          "id": "888652950596550657",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/888652616298856449/imagepicker3a9ace02-ea85-4bb5-a97f-7710246568c5-8209-000003b12aab4ba1.jpg",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/888652616298856449/imagepicker3a9ace02-ea85-4bb5-a97f-7710246568c5-8209-000003b12aab4ba1.jpeg"
+        },
+        "ages": 34,
+        "distance": 2941,
+        "verified": false,
+        "compatibility": 56,
+        "online": false,
+        "gender": "m",
+        "isPremium": false
+      },
+      "createdAt": "2024-03-21T15:00:00.922476Z",
+      "isRead": false,
+      "type": 0,
+      "isSuperLike": true,
+      "message": "Hello!",
+      "isOpen": null,
+      "isPremium": false
+    }
+  ]
+}

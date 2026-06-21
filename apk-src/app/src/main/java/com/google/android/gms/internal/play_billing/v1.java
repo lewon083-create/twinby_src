@@ -1,0 +1,23 @@
+package com.google.android.gms.internal.play_billing;
+
+import java.util.concurrent.locks.AbstractOwnableSynchronizer;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes.dex */
+public final class v1 extends AbstractOwnableSynchronizer implements Runnable {
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public final g2 f14338b;
+
+    public /* synthetic */ v1(g2 g2Var) {
+        this.f14338b = g2Var;
+    }
+
+    public final String toString() {
+        return this.f14338b.toString();
+    }
+
+    @Override // java.lang.Runnable
+    public final void run() {
+    }
+}

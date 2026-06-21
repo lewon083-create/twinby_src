@@ -1,0 +1,37 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "722bb4f0-c19c-11ee-926a-9372dd193968",
+      "text": "432432",
+      "attaches": [],
+      "lobby": null,
+      "type": "message",
+      "createdAt": "2024-02-02T07:29:02.874284Z",
+      "ownerId": "878611933934452746",
+      "isUnread": false
+    },
+    {
+      "id": "722bb4f0-c19c-11ee-926a-9372dd193967",
+      "text": "432432",
+      "attaches": [],
+      "lobby": null,
+      "type": "message",
+      "createdAt": "2024-02-02T07:27:00.279452Z",
+      "ownerId": "925392086322479105",
+      "isUnread": true
+    },
+    {
+      "id": "72d88dc0-baac-11ee-b299-0f5db4d10a46",
+      "text": "!!!",
+      "attaches": [],
+      "lobby": null,
+      "type": "message",
+      "createdAt": "2024-01-24T11:57:29.010939Z",
+      "ownerId": "925392086322479105",
+      "isUnread": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+package io.appmetrica.analytics.impl;
+
+import org.jetbrains.annotations.Nullable;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes2.dex */
+public final class X7 implements Wb {
+    @Override // io.appmetrica.analytics.impl.Wb
+    @Nullable
+    public final C0024a9 a(@Nullable C0254j7 c0254j7) {
+        return null;
+    }
+}

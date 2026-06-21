@@ -1,0 +1,95 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "12",
+      "user": {
+        "id": "875806334833491982",
+        "name": "Анна",
+        "avatar": {
+          "id": "875807376011132942",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029.jpg",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029-preview.jpeg"
+        },
+        "ages": 19,
+        "distance": 9265,
+        "verified": false,
+        "compatibility": 72,
+        "online": false,
+        "gender": "f"
+      },
+      "complaint": null,
+      "createdAt": "2023-12-28T11:04:27.508420Z"
+    },
+    {
+      "id": "92959889002227302512ae",
+      "user": {
+        "id": "875806334833491982",
+        "name": "Анна",
+        "avatar": {
+          "id": "875807376011132942",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029.jpg",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029-preview.jpeg"
+        },
+        "ages": 19,
+        "distance": 9265,
+        "verified": false,
+        "compatibility": 72,
+        "online": false,
+        "gender": "f"
+      },
+      "complaint": null,
+      "createdAt": "2023-12-28T11:04:27.508420Z"
+    },
+    {
+      "id": "929598890022273025se",
+      "user": {
+        "id": "875806334833491982",
+        "name": "Анна",
+        "avatar": {
+          "id": "875807376011132942",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029.jpg",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029-preview.jpeg"
+        },
+        "ages": 19,
+        "distance": 9265,
+        "verified": false,
+        "compatibility": 72,
+        "online": false,
+        "gender": "f"
+      },
+      "complaint": null,
+      "createdAt": "2023-12-28T11:04:27.508420Z"
+    },
+    {
+      "id": "92959889002227302512de",
+      "user": {
+        "id": "875806334833491982",
+        "name": "Анна",
+        "avatar": {
+          "id": "875807376011132942",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029.jpg",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/875806334833491982/scaledimg-20221130-wa0029-preview.jpeg"
+        },
+        "ages": 19,
+        "distance": 9265,
+        "verified": false,
+        "compatibility": 72,
+        "online": false,
+        "gender": "f"
+      },
+      "complaint": null,
+      "createdAt": "2023-12-28T11:04:27.508420Z"
+    }
+  ]
+}

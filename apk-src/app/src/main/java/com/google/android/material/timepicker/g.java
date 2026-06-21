@@ -1,0 +1,21 @@
+package com.google.android.material.timepicker;
+
+import android.view.View;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes.dex */
+public final class g implements View.OnClickListener {
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public final /* synthetic */ TimePickerView f14746b;
+
+    public g(TimePickerView timePickerView) {
+        this.f14746b = timePickerView;
+    }
+
+    @Override // android.view.View.OnClickListener
+    public final void onClick(View view) {
+        int i = TimePickerView.f14738s;
+        this.f14746b.getClass();
+    }
+}

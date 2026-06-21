@@ -1,0 +1,440 @@
+[
+  {
+    "id": "753298335899156481",
+    "code": "AZ",
+    "name": "Azerbaijanian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesaz.png"
+  },
+  {
+    "id": "753298335914754049",
+    "code": "AL",
+    "name": "Albanian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesal.png"
+  },
+  {
+    "id": "753298335928254465",
+    "code": "ET",
+    "name": "Amharic",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageset.png"
+  },
+  {
+    "id": "753298335940608001",
+    "code": "GB",
+    "name": "English",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesgb.png"
+  },
+  {
+    "id": "753298335953027073",
+    "code": "AE",
+    "name": "Arabian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesae.png"
+  },
+  {
+    "id": "753298335970492417",
+    "code": "AM",
+    "name": "Armenian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesam.png"
+  },
+  {
+    "id": "753298335984877569",
+    "code": "ZA",
+    "name": "Afrikaans",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesza.png"
+  },
+  {
+    "id": "753298335999787009",
+    "code": "BY",
+    "name": "Belarusian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesby.png"
+  },
+  {
+    "id": "753298336015220737",
+    "code": "BD",
+    "name": "Bengali",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesbd.png"
+  },
+  {
+    "id": "753298336028360705",
+    "code": "MM",
+    "name": "Burmese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesmm.png"
+  },
+  {
+    "id": "753298336040550401",
+    "code": "BG",
+    "name": "Bulgarian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesbg.png"
+  },
+  {
+    "id": "753298336052674561",
+    "code": "BA",
+    "name": "Bosnian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesba.png"
+  },
+  {
+    "id": "753298336068042753",
+    "code": "GB",
+    "name": "Welsh",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesgb.png"
+  },
+  {
+    "id": "753298336083247105",
+    "code": "HU",
+    "name": "Hungarian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageshu.png"
+  },
+  {
+    "id": "753298336097435649",
+    "code": "VN",
+    "name": "Vietnamese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesvn.png"
+  },
+  {
+    "id": "753298336113229825",
+    "code": "NL",
+    "name": "Dutch",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesnl.png"
+  },
+  {
+    "id": "753298336127254529",
+    "code": "GR",
+    "name": "Greek",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesgr.png"
+  },
+  {
+    "id": "753298336144916481",
+    "code": "GE",
+    "name": "Georgian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesge.png"
+  },
+  {
+    "id": "753298336162119681",
+    "code": "IN",
+    "name": "Gujarati",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesin.png"
+  },
+  {
+    "id": "753298336188399617",
+    "code": "DK",
+    "name": "Danish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesdk.png"
+  },
+  {
+    "id": "753298336203833345",
+    "code": "IL",
+    "name": "Hebrew",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesil.png"
+  },
+  {
+    "id": "753298336217792513",
+    "code": "ID",
+    "name": "Indonesian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesid.png"
+  },
+  {
+    "id": "753298336233979905",
+    "code": "IE",
+    "name": "Irish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesie.png"
+  },
+  {
+    "id": "753298336247283713",
+    "code": "IT",
+    "name": "Italian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesit.png"
+  },
+  {
+    "id": "753298336264192001",
+    "code": "IS",
+    "name": "Icelandic",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesis.png"
+  },
+  {
+    "id": "753298336278642689",
+    "code": "ES",
+    "name": "Spanish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageses.png"
+  },
+  {
+    "id": "753298336295059457",
+    "code": "KZ",
+    "name": "Kazakh",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageskz.png"
+  },
+  {
+    "id": "753298336309313537",
+    "code": "AD",
+    "name": "Catalan",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesad.png"
+  },
+  {
+    "id": "753298336322912257",
+    "code": "KG",
+    "name": "Kyrgyz",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageskg.png"
+  },
+  {
+    "id": "753298336336412673",
+    "code": "CN",
+    "name": "Chinese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagescn.png"
+  },
+  {
+    "id": "753298336349650945",
+    "code": "KR",
+    "name": "Korean",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageskr.png"
+  },
+  {
+    "id": "753298336363118593",
+    "code": "KH",
+    "name": "Khmer",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageskh.png"
+  },
+  {
+    "id": "753298336378126337",
+    "code": "LA",
+    "name": "Laotian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesla.png"
+  },
+  {
+    "id": "753298336394706945",
+    "code": "LV",
+    "name": "Latvian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageslv.png"
+  },
+  {
+    "id": "753298336409714689",
+    "code": "LT",
+    "name": "Lithuanian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageslt.png"
+  },
+  {
+    "id": "753298336424820737",
+    "code": "LU",
+    "name": "Luxembourgish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageslu.png"
+  },
+  {
+    "id": "753298336437731329",
+    "code": "MG",
+    "name": "Malagasy",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesmg.png"
+  },
+  {
+    "id": "753298336450838529",
+    "code": "MY",
+    "name": "Malaysian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesmy.png"
+  },
+  {
+    "id": "753298336465551361",
+    "code": "MT",
+    "name": "Maltese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesmt.png"
+  },
+  {
+    "id": "753298336485310465",
+    "code": "MK",
+    "name": "Macedonian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesmk.png"
+  },
+  {
+    "id": "753298336504643585",
+    "code": "MN",
+    "name": "Mongolian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesmn.png"
+  },
+  {
+    "id": "753298336517685249",
+    "code": "DE",
+    "name": "German",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesde.png"
+  },
+  {
+    "id": "753298336534921217",
+    "code": "NP",
+    "name": "Nepalese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesnp.png"
+  },
+  {
+    "id": "753298336548651009",
+    "code": "NO",
+    "name": "Norwegian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesno.png"
+  },
+  {
+    "id": "753298336562511873",
+    "code": "IN",
+    "name": "Punjabi",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesin.png"
+  },
+  {
+    "id": "753298336578076673",
+    "code": "IR",
+    "name": "Persian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesir.png"
+  },
+  {
+    "id": "753298336592461825",
+    "code": "PL",
+    "name": "Polish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagespl.png"
+  },
+  {
+    "id": "753298336605634561",
+    "code": "PT",
+    "name": "Portuguese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagespt.png"
+  },
+  {
+    "id": "753298336621527041",
+    "code": "RO",
+    "name": "Romanian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesro.png"
+  },
+  {
+    "id": "753298336634404865",
+    "code": "RU",
+    "name": "Russian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesru.png"
+  },
+  {
+    "id": "753298336648462337",
+    "code": "RS",
+    "name": "Serbian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesrs.png"
+  },
+  {
+    "id": "753298336662749185",
+    "code": "LK",
+    "name": "Sinhalese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageslk.png"
+  },
+  {
+    "id": "753298336678182913",
+    "code": "SK",
+    "name": "Slovak",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagessk.png"
+  },
+  {
+    "id": "753298336690077697",
+    "code": "SI",
+    "name": "Slovenian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagessi.png"
+  },
+  {
+    "id": "753298336701808641",
+    "code": "KE",
+    "name": "Swahili",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageske.png"
+  },
+  {
+    "id": "753298336715767809",
+    "code": "TJ",
+    "name": "Tajik",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagestj.png"
+  },
+  {
+    "id": "753298336730218497",
+    "code": "TH",
+    "name": "Thai",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesth.png"
+  },
+  {
+    "id": "753298336746242049",
+    "code": "PH",
+    "name": "Filipino",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesph.png"
+  },
+  {
+    "id": "753298336759578625",
+    "code": "LK",
+    "name": "Tamil",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageslk.png"
+  },
+  {
+    "id": "753298336772685825",
+    "code": "RU",
+    "name": "Tatarian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesru.png"
+  },
+  {
+    "id": "753298336786776065",
+    "code": "IN",
+    "name": "Telugu",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesin.png"
+  },
+  {
+    "id": "753298336799326209",
+    "code": "TR",
+    "name": "Turkish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagestr.png"
+  },
+  {
+    "id": "753298336817840129",
+    "code": "UZ",
+    "name": "Uzbek",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesuz.png"
+  },
+  {
+    "id": "753298336830914561",
+    "code": "UA",
+    "name": "Ukrainian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesua.png"
+  },
+  {
+    "id": "753298336843923457",
+    "code": "PK",
+    "name": "Urdu",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagespk.png"
+  },
+  {
+    "id": "753298336896516097",
+    "code": "FI",
+    "name": "Finnish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesfi.png"
+  },
+  {
+    "id": "753298336957661185",
+    "code": "FR",
+    "name": "French",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesfr.png"
+  },
+  {
+    "id": "753298337057603585",
+    "code": "IN",
+    "name": "Hindi",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesin.png"
+  },
+  {
+    "id": "753298337251459073",
+    "code": "HR",
+    "name": "Croatian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languageshr.png"
+  },
+  {
+    "id": "753298337451933697",
+    "code": "CZ",
+    "name": "Czech",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagescz.png"
+  },
+  {
+    "id": "753298337651490817",
+    "code": "SE",
+    "name": "Swedish",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesse.png"
+  },
+  {
+    "id": "753298337851015169",
+    "code": "EE",
+    "name": "Estonian",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesee.png"
+  },
+  {
+    "id": "753298338052440065",
+    "code": "JP",
+    "name": "Japanese",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/languages/languagesjp.png"
+  }
+]

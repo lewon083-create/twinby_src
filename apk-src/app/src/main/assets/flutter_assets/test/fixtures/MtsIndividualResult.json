@@ -1,0 +1,26 @@
+{
+  "style": "modern",
+  "styleIcon": "https://uxwing.com/wp-content/themes/uxwing/download/hand-gestures/good-icon.png",
+  "title": "Modern Living Room",
+  "description": "A modern living room style that emphasizes clean lines, minimalism, and functionality.",
+  "recommendationTitle": "Top Recommendations for Modern Living",
+  "recommendationDescription": "Discover the best furniture and decor items that perfectly complement a modern living room style.",
+  "route": "/recommendations/modern-living-room",
+  "traits": [
+    {
+      "traitName": "Minimalist",
+      "traitAntiName": "Cluttered",
+      "percent": 0.8
+    },
+    {
+      "traitName": "Functional",
+      "traitAntiName": "Impractical",
+      "percent": 0.9
+    },
+    {
+      "traitName": "Neutral Colors",
+      "traitAntiName": "Vibrant Colors",
+      "percent": 0.75
+    }
+  ]
+}

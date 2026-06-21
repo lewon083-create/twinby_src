@@ -1,0 +1,27 @@
+{
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "887657316569448449",
+      "name": "Dates",
+      "description": "Enjoy going on dates and having a good time"
+    },
+    {
+      "id": "887657566886395905",
+      "name": "Relationships",
+      "description": "Discover a soul mate and build a relationship"
+    },
+    {
+      "id": "887657875328794625",
+      "name": "Friendship",
+      "description": "Connect with new friends, communicate, and arrange meetups"
+    },
+    {
+      "id": "887657985163067393",
+      "name": "Open communication",
+      "description": "Engage in unrestricted communication, share thoughts, and exchange ideas freely"
+    }
+  ]
+}

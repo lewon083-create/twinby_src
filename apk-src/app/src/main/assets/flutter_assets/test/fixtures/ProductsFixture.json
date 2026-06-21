@@ -1,0 +1,57 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "paymentProvider": "APPLE_PAY",
+      "products": [
+        {
+          "id": "0",
+          "priceId": "7aac4845-849d-4197-9279-7effae5ca4c9",
+          "name": "Неделя",
+          "amount": 539.0,
+          "currency": "rub",
+          "recurrent": true,
+          "interval": 1,
+          "period": 1,
+          "type": "PREMIUM",
+          "quantity": null,
+          "isPreselect": false,
+          "paymentProviderProductId": "twinby_premium_one_week",
+          "sales": []
+        },
+        {
+          "id": "1",
+          "priceId": "68b57266-eba6-447e-b6b6-53ed771e0c18",
+          "name": "Месяц",
+          "amount": 895.0,
+          "currency": "rub",
+          "recurrent": true,
+          "interval": 2,
+          "period": 1,
+          "type": "PREMIUM",
+          "quantity": null,
+          "isPreselect": false,
+          "paymentProviderProductId": "twinby_premium_one_month",
+          "sales": []
+        },
+        {
+          "id": "2",
+          "priceId": "fa823f8b-73cf-4bdb-a029-1400799628e0",
+          "name": "3 месяца",
+          "amount": 1690.0,
+          "currency": "rub",
+          "recurrent": true,
+          "interval": 2,
+          "period": 3,
+          "type": "PREMIUM",
+          "quantity": null,
+          "isPreselect": false,
+          "paymentProviderProductId": "Twinby_premium_three_month",
+          "sales": []
+        }
+      ]
+    }
+  ]
+}

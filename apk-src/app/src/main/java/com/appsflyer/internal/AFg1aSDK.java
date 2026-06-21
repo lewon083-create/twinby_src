@@ -1,0 +1,55 @@
+package com.appsflyer.internal;
+
+import com.appsflyer.AFLogger;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes.dex */
+public final class AFg1aSDK {
+    public static String getCurrencyIso4217Code(String str) {
+        if (str.length() <= 20) {
+            return str;
+        }
+        StringBuilder sb2 = new StringBuilder();
+        sb2.append(str.substring(0, 10));
+        sb2.append("...");
+        return sb2.toString();
+    }
+
+    private static String getMediationNetwork(String str) {
+        StringBuilder sb2 = new StringBuilder();
+        for (int i = 0; i < str.length(); i++) {
+            if (i == 0 || i == str.length() - 1) {
+                sb2.append(str.charAt(i));
+            } else {
+                sb2.append("*");
+            }
+        }
+        return sb2.toString();
+    }
+
+    public static void getRevenue(String str, JSONObject jSONObject) {
+        if (jSONObject != null) {
+            try {
+                if (jSONObject.has("appsflyerKey")) {
+                    jSONObject.put("appsflyerKey", getMediationNetwork(jSONObject.getString("appsflyerKey")));
+                }
+                if (jSONObject.has("tcstring")) {
+                    jSONObject.put("tcstring", getCurrencyIso4217Code("tcstring"));
+                }
+                if (jSONObject.has("referrer")) {
+                    jSONObject.put("referrer", getCurrencyIso4217Code("referrer"));
+                }
+                AFLogger aFLogger = AFLogger.INSTANCE;
+                AFg1cSDK aFg1cSDK = AFg1cSDK.OTHER;
+                StringBuilder sb2 = new StringBuilder();
+                sb2.append(str);
+                sb2.append(jSONObject);
+                aFLogger.i(aFg1cSDK, sb2.toString());
+            } catch (JSONException e3) {
+                AFLogger.INSTANCE.e(AFg1cSDK.OTHER, "Not able to log the payload", e3);
+            }
+        }
+    }
+}

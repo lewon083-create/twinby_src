@@ -1,0 +1,19 @@
+package wl;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes2.dex */
+public enum z0 extends c3 {
+    public z0() {
+        super("ScriptDataEscapeStartDash", 20);
+    }
+
+    @Override // wl.c3
+    public final void d(m0 m0Var, a aVar) {
+        if (!aVar.m('-')) {
+            m0Var.f35463c = c3.f35396g;
+        } else {
+            m0Var.f('-');
+            m0Var.a(c3.f35427y);
+        }
+    }
+}

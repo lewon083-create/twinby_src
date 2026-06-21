@@ -1,0 +1,327 @@
+{
+  "count": 74,
+  "next": "https://stage-api.twinby.com/api/push/?page=2&size=20",
+  "previous": null,
+  "results": [
+    {
+      "id": "956536813460291585",
+      "title": "Twinby",
+      "body": "aaa followed your Invite link 👀",
+      "displayTitle": "Click on Invite",
+      "displayBody": "aaa followed your link. Click to view her profile",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/927374220050726915/46499fa7-6de3-46c9-9bf5-9d400dec2a14-preview.webp",
+      "payload": {
+        "id": "927374220050726915",
+        "object": "User"
+      },
+      "pushType": 15,
+      "isRead": true,
+      "createdAt": "2024-04-01T14:37:49.336340Z",
+      "sentAt": "2024-04-01T14:37:49.776786Z"
+    },
+    {
+      "id": "956526877575446529",
+      "title": "Twinby",
+      "body": "aaa followed your Invite link 👀",
+      "displayTitle": "Click on Invite",
+      "displayBody": "aaa followed your link. Click to view her profile",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/927374220050726915/46499fa7-6de3-46c9-9bf5-9d400dec2a14-preview.webp",
+      "payload": {
+        "id": "927374220050726915",
+        "object": "User"
+      },
+      "pushType": 15,
+      "isRead": true,
+      "createdAt": "2024-04-01T13:47:17.126403Z",
+      "sentAt": "2024-04-01T13:47:17.658908Z"
+    },
+    {
+      "id": "956522181786206209",
+      "title": "Twinby",
+      "body": "aaa followed your Invite link 👀",
+      "displayTitle": "Click on Invite",
+      "displayBody": "aaa followed your link. Click to view her profile",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/927374220050726915/46499fa7-6de3-46c9-9bf5-9d400dec2a14-preview.webp",
+      "payload": {
+        "id": "927374220050726915",
+        "object": "User"
+      },
+      "pushType": 15,
+      "isRead": true,
+      "createdAt": "2024-04-01T13:23:24.105657Z",
+      "sentAt": "2024-04-01T13:23:24.494115Z"
+    },
+    {
+      "id": "956521011697123329",
+      "title": "Twinby",
+      "body": "aaa followed your Invite link 👀",
+      "displayTitle": "Click on Invite",
+      "displayBody": "aaa followed your link. Click to view her profile",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/927374220050726915/46499fa7-6de3-46c9-9bf5-9d400dec2a14-preview.webp",
+      "payload": {
+        "id": "927374220050726915",
+        "object": "User"
+      },
+      "pushType": 15,
+      "isRead": true,
+      "createdAt": "2024-04-01T13:17:27.021786Z",
+      "sentAt": "2024-04-01T13:17:28.535073Z"
+    },
+    {
+      "id": "945199832485167105",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-21T13:34:57.312522Z",
+      "sentAt": "2024-02-21T13:34:57.681157Z"
+    },
+    {
+      "id": "945199357678878723",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-21T13:32:32.414065Z",
+      "sentAt": "2024-02-21T13:32:32.904329Z"
+    },
+    {
+      "id": "945198997034958849",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-21T13:30:42.353221Z",
+      "sentAt": "2024-02-21T13:30:42.851092Z"
+    },
+    {
+      "id": "945197677774307331",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-21T13:23:59.709811Z",
+      "sentAt": "2024-02-21T13:24:00.467740Z"
+    },
+    {
+      "id": "945196529519394817",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-21T13:18:09.328388Z",
+      "sentAt": "2024-02-21T13:18:12.409276Z"
+    },
+    {
+      "id": "942583442308759555",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-12T07:47:18.380390Z",
+      "sentAt": "2024-02-12T07:47:19.000214Z"
+    },
+    {
+      "id": "941793313015431169",
+      "title": "Twinby",
+      "body": "aaa completed the test. Compatibility is available ",
+      "displayTitle": "aaa",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/927374220050726915/46499fa7-6de3-46c9-9bf5-9d400dec2a14-preview.webp",
+      "payload": {
+        "id": "927374220050726915",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-09T12:48:30.072400Z",
+      "sentAt": "2024-02-09T12:48:30.474165Z"
+    },
+    {
+      "id": "941791054465302529",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-09T12:37:00.817416Z",
+      "sentAt": "2024-02-09T12:37:01.324344Z"
+    },
+    {
+      "id": "941787239950319617",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-09T12:17:36.702122Z",
+      "sentAt": "2024-02-09T12:17:37.284242Z"
+    },
+    {
+      "id": "941778537699180545",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-09T11:33:21.004109Z",
+      "sentAt": "2024-02-09T11:33:21.549465Z"
+    },
+    {
+      "id": "941766629957107713",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-09T10:32:47.048517Z",
+      "sentAt": "2024-02-09T10:32:47.426269Z"
+    },
+    {
+      "id": "941766199219027969",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-09T10:30:35.597889Z",
+      "sentAt": "2024-02-09T10:30:36.069905Z"
+    },
+    {
+      "id": "941762070257434625",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-02-09T10:09:35.494032Z",
+      "sentAt": "2024-02-09T10:09:35.964258Z"
+    },
+    {
+      "id": "938665135770828801",
+      "title": "Twinby",
+      "body": "Доступна совместимость с пользователем gdfgdf",
+      "displayTitle": "gdfgdf",
+      "displayBody": "Прошел первый тест. Совместимость доступна! ",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/937239433776988161/1a307bca-4fc9-4f96-84f5-c4a3a84f29ea-preview.webp",
+      "payload": {
+        "id": "937239433776988161",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-01-29T11:37:46.137429Z",
+      "sentAt": "2024-01-29T11:37:46.705230Z"
+    },
+    {
+      "id": "937249379530768385",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-01-24T11:36:51.621203Z",
+      "sentAt": "2024-01-24T11:36:51.994449Z"
+    },
+    {
+      "id": "937248859123744769",
+      "title": "Twinby",
+      "body": "jojo completed the test. Compatibility is available ",
+      "displayTitle": "jojo",
+      "displayBody": "completed the test. Compatibility is available!",
+      "image": "https://storage.yandexcloud.net/twinby-dev/photos/925392086322479105/d8d811fb-880e-4ec3-a141-82e06c1da293-preview.webp",
+      "payload": {
+        "id": "925392086322479105",
+        "object": "User"
+      },
+      "pushType": 5,
+      "isRead": true,
+      "createdAt": "2024-01-24T11:34:12.805090Z",
+      "sentAt": "2024-01-24T11:34:13.245187Z"
+    }
+  ]
+}

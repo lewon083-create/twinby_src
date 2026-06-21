@@ -1,0 +1,75 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "9615692601764741139",
+      "deck": {
+        "id": "929374750136369153",
+        "title": "New Year's pack",
+        "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+        "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+        "isPremium": false
+      },
+      "ownerId": "925392086322479105",
+      "createdAt": "2024-04-19T09:14:10.174032Z",
+      "updatedAt": "2024-04-19T09:14:10.174032Z",
+      "status": 0,
+      "unreadMessagesCount": 0,
+      "interlocutor": {
+        "id": "925398284558237697",
+        "name": "tttr",
+        "avatar": {
+          "id": "925398377726935041",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/scaledphoto2023-11-2321-37-03.webp",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/5c63eae2-3aa7-4df4-869f-13cd8868a7ab-preview.webp"
+        }
+      },
+      "lastCard": {
+        "ownerId": "",
+        "text": "",
+        "approved": false,
+        "type": null,
+        "isUnread": false,
+        "isBlur": false
+      }
+    },
+    {
+      "id": "9615692601764741138",
+      "deck": {
+        "id": "929374750136369153",
+        "title": "New Year's pack",
+        "backgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god.webp",
+        "bluredBackgroundImage": "https://storage.yandexcloud.net/twinby-dev/decks/novyii-god-fon.png",
+        "isPremium": false
+      },
+      "ownerId": "92539208632247910534",
+      "createdAt": "2024-04-19T09:14:10.174032Z",
+      "updatedAt": "2024-04-19T09:14:10.174032Z",
+      "status": 0,
+      "unreadMessagesCount": 0,
+      "interlocutor": {
+        "id": "92539828455823769743",
+        "name": "tttr",
+        "avatar": {
+          "id": "925398377726935041",
+          "file": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/scaledphoto2023-11-2321-37-03.webp",
+          "type": "photo",
+          "faceLtwh": [],
+          "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925398284558237697/5c63eae2-3aa7-4df4-869f-13cd8868a7ab-preview.webp"
+        }
+      },
+      "lastCard": {
+        "ownerId": "",
+        "text": "",
+        "approved": false,
+        "type": null,
+        "isUnread": false,
+        "isBlur": false
+      }
+    }
+  ]
+}

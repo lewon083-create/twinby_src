@@ -1,0 +1,462 @@
+[
+  {
+    "id": "950850540089638915",
+    "createdAt": "2024-03-12T12:35:56.422973Z",
+    "interlocutor": {
+      "id": "890830910202281987",
+      "name": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439",
+      "avatar": {
+        "id": "890831478514188289",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/890830910202281987/scaled178896c8-386e-453a-be34-2016cab76db84167647681671788577.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/890830910202281987/scaled178896c8-386e-453a-be34-2016cab76db84167647681671788577-preview.jpeg"
+      },
+      "online": false,
+      "gender": "m",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 92,
+    "distance": 10233,
+    "isVisited": false
+  },
+  {
+    "id": "943478927057125379",
+    "createdAt": "2024-02-15T11:41:58.656868Z",
+    "interlocutor": {
+      "id": "879229355061084179",
+      "name": "\u0410\u043d\u0434\u0440\u0435\u0439",
+      "avatar": {
+        "id": "879229634602631178",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/879229355061084179/imagepicker9a0c413d-6522-4728-aa1e-dc75f8d2670e-51604-00008668f4e675d9.png",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/879229355061084179/imagepicker9a0c413d-6522-4728-aa1e-dc75f8d2670e-51604-00008668f4e675d.jpeg"
+      },
+      "online": false,
+      "gender": "m",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 78,
+    "distance": 9513,
+    "isVisited": false
+  },
+  {
+    "id": "942636685052477443",
+    "createdAt": "2024-02-12T12:18:06.794933Z",
+    "interlocutor": {
+      "id": "883776130886434826",
+      "name": "\u0414\u0430\u043d\u0438\u043b",
+      "avatar": {
+        "id": "883780794314391570",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/883776130886434826/imagepicker47265f36-9442-4be3-9b56-5493184bc04f-4831-0000025f0f485f5c.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/883776130886434826/imagepicker47265f36-9442-4be3-9b56-5493184bc04f-4831-0000025f0f485f5c.jpeg"
+      },
+      "online": false,
+      "gender": "m",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 55,
+    "distance": 9493,
+    "isVisited": true
+  },
+  {
+    "id": "941792569556959235",
+    "createdAt": "2024-02-09T12:44:43.189164Z",
+    "interlocutor": {
+      "id": "927374220050726915",
+      "name": "aaa",
+      "avatar": {
+        "id": "927374331130249219",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/927374220050726915/scaled83890830.webp",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/927374220050726915/46499fa7-6de3-46c9-9bf5-9d400dec2a14-preview.webp"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 70,
+    "distance": 9644,
+    "isVisited": true
+  },
+  {
+    "id": "939748084146405377",
+    "createdAt": "2024-02-02T07:25:55.756724Z",
+    "interlocutor": {
+      "id": "878106430229512202",
+      "name": "\u041c\u0430\u0440\u0438\u044f",
+      "avatar": {
+        "id": "878106954688790547",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/878106430229512202/imagepicker38f4f8ec-df2b-44e6-b965-41af935d3f22-792-0000002c2e45d0dc.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/878106430229512202/imagepicker38f4f8ec-df2b-44e6-b965-41af935d3f22-792-0000002c2e45d0dc-.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 84,
+    "distance": 9645,
+    "isVisited": true
+  },
+  {
+    "id": "939745812126007297",
+    "createdAt": "2024-02-02T07:14:22.391023Z",
+    "interlocutor": {
+      "id": "890586618422132737",
+      "name": "\u0414\u0430\u0440\u0438\u043d\u0430",
+      "avatar": {
+        "id": "890586752107216897",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/890586618422132737/imagepicker045739f7-29a4-44e2-b330-63d685c8b7f8-25548-00000ae5029fba71.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/890586618422132737/imagepicker045739f7-29a4-44e2-b330-63d685c8b7f8-25548-00000ae5029fba7.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 74,
+    "distance": 9644,
+    "isVisited": true
+  },
+  {
+    "id": "939745574640025603",
+    "createdAt": "2024-02-02T07:13:09.916188Z",
+    "interlocutor": {
+      "id": "861914608787062791",
+      "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430",
+      "avatar": {
+        "id": "861915588414930951",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/861914608787062791/imagepicker7890da46-3f80-4410-b960-1e279b2dafc8-12315-0000065c8e6c5cd5.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/861914608787062791/imagepicker7890da46-3f80-4410-b960-1e279b2dafc8-12315-0000065c8e6c5cd.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 62,
+    "distance": 9644,
+    "isVisited": true
+  },
+  {
+    "id": "929070463248826369",
+    "createdAt": "2023-12-26T14:16:44.457004Z",
+    "interlocutor": {
+      "id": "766005460919910401",
+      "name": "\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430",
+      "avatar": {
+        "id": "766034308791926785",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/766005460919910401/image_picker_987C6310-6EC9-4FD4-888F-80A91BFC66E9-9395-000001CE4F2BE37.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/766005460919910401/image_picker_987C6310-6EC9-4FD4-888F-80A91BFC66E9-9395-000001CE4F2BE3.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": true,
+      "isPremium": true
+    },
+    "compatibility": 75,
+    "distance": 10842,
+    "isVisited": true
+  },
+  {
+    "id": "928718610609012737",
+    "createdAt": "2023-12-25T08:27:07.552692Z",
+    "interlocutor": {
+      "id": "871395695671705615",
+      "name": "\u041a\u0438\u0440\u0438\u043b\u043b",
+      "avatar": {
+        "id": "886330174292361217",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/871395695671705615/scaledimg20230117235248108.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/871395695671705615/scaledimg20230117235248108-preview.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": true,
+      "isPremium": false
+    },
+    "compatibility": 68,
+    "distance": 10669,
+    "isVisited": true
+  },
+  {
+    "id": "927628532431552515",
+    "createdAt": "2023-12-21T12:02:42.093482Z",
+    "interlocutor": {
+      "id": "886314192386293761",
+      "name": "\u0420\u0435\u0433\u0438\u043d\u0430",
+      "avatar": {
+        "id": "886314777248497667",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/886314192386293761/imagepicker1c1051f1-7188-44cd-bab1-2c03c791f33e-19278-00000724bdf2b06b.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/886314192386293761/imagepicker1c1051f1-7188-44cd-bab1-2c03c791f33e-19278-00000724bdf2b06.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 88,
+    "distance": 9793,
+    "isVisited": true
+  },
+  {
+    "id": "927627759445606401",
+    "createdAt": "2023-12-21T11:58:46.196847Z",
+    "interlocutor": {
+      "id": "889104213892005889",
+      "name": "\u041d\u0435\u043b\u043b\u0438",
+      "avatar": {
+        "id": "889104396237307906",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/889104213892005889/imagepickerb707301e-d072-4771-8aea-62b35480d1a7-16747-00000260c87c4c53.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/889104213892005889/imagepickerb707301e-d072-4771-8aea-62b35480d1a7-16747-00000260c87c4c5.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 73,
+    "distance": null,
+    "isVisited": true
+  },
+  {
+    "id": "927610935519772673",
+    "createdAt": "2023-12-21T10:33:11.942118Z",
+    "interlocutor": {
+      "id": "863032413949755399",
+      "name": "\u0410\u043d\u044f",
+      "avatar": {
+        "id": "889364349706633217",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/863032413949755399/imagepickerdca07f0b-051e-47cb-92a3-4fa8ae573d13-78550-00000702d1851e8b.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/863032413949755399/imagepickerdca07f0b-051e-47cb-92a3-4fa8ae573d13-78550-00000702d1851e8.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 75,
+    "distance": null,
+    "isVisited": true
+  },
+  {
+    "id": "927360585066643457",
+    "createdAt": "2023-12-20T13:19:51.046657Z",
+    "interlocutor": {
+      "id": "878187492664901642",
+      "name": "\u041c\u0438\u0445\u0430\u0438\u043b",
+      "avatar": {
+        "id": "878187634792398867",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/878187492664901642/scaled20230713014500.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/878187492664901642/scaled20230713014500-preview.jpeg"
+      },
+      "online": false,
+      "gender": "m",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 84,
+    "distance": 9487,
+    "isVisited": true
+  },
+  {
+    "id": "927037116292104193",
+    "createdAt": "2023-12-19T09:54:36.210994Z",
+    "interlocutor": {
+      "id": "765147907286007809",
+      "name": "\u0410\u043d\u0434\u0440\u0435\u0439",
+      "avatar": {
+        "id": "765148176996139009",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/765147907286007809/image_picker_187F272B-E506-406A-9207-4E4C6B8075A6-9929-0000011C38DEEF7.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/765147907286007809/image_picker_187F272B-E506-406A-9207-4E4C6B8075A6-9929-0000011C38DEEF.jpeg"
+      },
+      "online": false,
+      "gender": "m",
+      "lastSeen": null,
+      "verified": true,
+      "isPremium": true
+    },
+    "compatibility": 73,
+    "distance": 9554,
+    "isVisited": true
+  },
+  {
+    "id": "926773245068607491",
+    "createdAt": "2023-12-18T11:32:29.104428Z",
+    "interlocutor": {
+      "id": "877581967759081482",
+      "name": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430",
+      "avatar": {
+        "id": "877582916958584851",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/877581967759081482/imagepicker5c426af8-a098-468b-bd88-dac895cb4764-3465-0000023b2006f593.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/877581967759081482/imagepicker5c426af8-a098-468b-bd88-dac895cb4764-3465-0000023b2006f593.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 58,
+    "distance": 8918,
+    "isVisited": true
+  },
+  {
+    "id": "926772622008975361",
+    "createdAt": "2023-12-18T11:29:18.961576Z",
+    "interlocutor": {
+      "id": "925921734856572929",
+      "name": "goghj",
+      "avatar": {
+        "id": "925922029255393283",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/925921734856572929/scaled83890830.webp",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/925921734856572929/a49f8ba9-8eed-489c-8cfb-96e21a4cbf67-preview.webp"
+      },
+      "online": false,
+      "gender": "m",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 88,
+    "distance": 9441,
+    "isVisited": true
+  },
+  {
+    "id": "926769456308158467",
+    "createdAt": "2023-12-18T11:13:12.866120Z",
+    "interlocutor": {
+      "id": "888335786621272065",
+      "name": "\u0418\u043d\u0433\u0430",
+      "avatar": {
+        "id": "888337674610475009",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid-preview.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 85,
+    "distance": 10208,
+    "isVisited": true
+  },
+  {
+    "id": "926769456308158468",
+    "createdAt": "2023-12-18T11:13:12.866120Z",
+    "interlocutor": {
+      "id": "888335786621272065",
+      "name": "\u0418\u043d\u0433\u0430",
+      "avatar": {
+        "id": "888337674610475009",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid-preview.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 85,
+    "distance": 10208,
+    "isVisited": true
+  },
+  {
+    "id": "926769456308158469",
+    "createdAt": "2023-12-18T11:13:12.866120Z",
+    "interlocutor": {
+      "id": "888335786621272065",
+      "name": "\u0418\u043d\u0433\u0430",
+      "avatar": {
+        "id": "888337674610475009",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid-preview.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 85,
+    "distance": 10208,
+    "isVisited": true
+  },
+  {
+    "id": "926769456308158324",
+    "createdAt": "2023-12-18T11:13:12.866120Z",
+    "interlocutor": {
+      "id": "888335786621272065",
+      "name": "\u0418\u043d\u0433\u0430",
+      "avatar": {
+        "id": "888337674610475009",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/888335786621272065/scaledscreenshot2022-02-01-23-59-23-842cominstagramandroid-preview.jpeg"
+      },
+      "online": false,
+      "gender": "f",
+      "lastSeen": null,
+      "verified": false,
+      "isPremium": false
+    },
+    "compatibility": 85,
+    "distance": 10208,
+    "isVisited": true
+  }
+]

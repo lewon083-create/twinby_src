@@ -1,0 +1,10 @@
+package com.google.android.gms.internal.ads;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes.dex */
+public final class a70 extends ip1 implements b70 {
+    @Override // com.google.android.gms.internal.ads.b70
+    public final void H(r40 r40Var) {
+        A1(new gk0(14, r40Var));
+    }
+}

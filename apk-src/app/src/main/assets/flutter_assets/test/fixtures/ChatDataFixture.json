@@ -1,0 +1,57 @@
+{
+  "id": "2",
+  "users": [
+    {
+      "id": "878611933934452746",
+      "name": "\u041a\u0441\u044e\u0448\u0430",
+      "avatar": {
+        "id": "878612130052046866",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/878611933934452746/imagepicker3576e7bc-3940-418d-8cc6-c9f5d5e0b65f-1941-0000198f7433af39.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/878611933934452746/imagepicker3576e7bc-3940-418d-8cc6-c9f5d5e0b65f-1941-0000198f7433af39.jpeg"
+      },
+      "ages": 20,
+      "distance": 3723,
+      "verified": false,
+      "online": false,
+      "gender": "f",
+      "unreadMessages": 0,
+      "unreadLobbyMsgs": 0,
+      "compatibility": 85
+    },
+    {
+      "id": "878611933934452746",
+      "name": "\u041a\u0441\u044e\u0448\u0430",
+      "avatar": {
+        "id": "878612130052046866",
+        "file": "https://storage.yandexcloud.net/twinby-dev/photos/878611933934452746/imagepicker3576e7bc-3940-418d-8cc6-c9f5d5e0b65f-1941-0000198f7433af39.jpg",
+        "type": "photo",
+        "faceLtwh": [],
+        "preview": "https://storage.yandexcloud.net/twinby-dev/photos/878611933934452746/imagepicker3576e7bc-3940-418d-8cc6-c9f5d5e0b65f-1941-0000198f7433af39.jpeg"
+      },
+      "ages": 20,
+      "distance": 3723,
+      "verified": false,
+      "online": false,
+      "gender": "f",
+      "unreadMessages": 0,
+      "unreadLobbyMsgs": 0,
+      "compatibility": 85
+    }
+  ],
+  "unreadMessages": 0,
+  "lastMessage": {
+    "text": "432432",
+    "ownerId": "878611933934452746",
+    "type": "message",
+    "attaches": [],
+    "createdAt": "2024-02-02T07:29:02.874284Z",
+    "isUnread": false,
+    "id": "722bb4f0-c19c-11ee-926a-9372dd193968"
+  },
+  "createdAt": "2023-12-27T07:05:59.322285Z",
+  "updatedAt": "2023-12-27T07:05:59.322285Z",
+  "lobby": null,
+  "isSystem": false
+}

@@ -1,0 +1,110 @@
+{
+  "id": "861957992683536391",
+  "name": "TestUser",
+  "about": "Wefewfewfewf\nХуйа",
+  "email": "",
+  "emailVerified": false,
+  "verified": false,
+  "phone": null,
+  "birthday": "1994-05-03",
+  "dateJoined": "2023-05-03T13:05:03Z",
+  "language": "RU",
+  "gender": "m",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      50.59225,
+      40.318083
+    ]
+  },
+  "nameCity": "wffe",
+  "invisible": false,
+  "avatar": {
+    "id": "861958397682122759",
+    "file": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker6524f18b-3364-4288-90ca-8d4d4babb87c-38037-0000372adcd22967.jpg",
+    "type": "photo",
+    "faceLtwh": [],
+    "preview": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker6524f18b-3364-4288-90ca-8d4d4babb87c-38037-0000372adcd2296.jpeg"
+  },
+  "onboardingStep": 3,
+  "onboardingCompleted": true,
+  "photos": [
+    {
+      "id": "895641506273755137",
+      "hash": "image_picker_1D6CFE2F-9F08-47A3-9CEC-83E70A6F7E74-20752-00000CF7",
+      "file": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker1d6cfe2f-9f08-47a3-9cec-83e70a6f7e74-20752-00000cf7535fab2.webp",
+      "preview": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker1d6cfe2f-9f08-47a3-9cec-83e70a6f7e74-20752-00000cf7535fab2.jpeg",
+      "type": "photo",
+      "faceLtwh": [],
+      "order": 1
+    },
+    {
+      "id": "895642213444321281",
+      "hash": "image_picker_B9D63A8E-1EEA-4E19-A79D-D9674B970197-20752-00000CF8",
+      "file": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepickerb9d63a8e-1eea-4e19-a79d-d9674b970197-20752-00000cf887a0978b.jpg",
+      "preview": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepickerb9d63a8e-1eea-4e19-a79d-d9674b970197-20752-00000cf887a0978.jpeg",
+      "type": "photo",
+      "faceLtwh": [],
+      "order": 2
+    },
+    {
+      "id": "895643498695917569",
+      "hash": "image_picker_DBA642DB-7832-4790-AA91-8D5C6261F0D1-20752-00000CFA",
+      "file": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepickerdba642db-7832-4790-aa91-8d5c6261f0d1-20752-00000cfab89dd2e4.exe",
+      "preview": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepickerdba642db-7832-4790-aa91-8d5c6261f0d1-20752-00000cfab89dd2e.jpeg",
+      "type": "photo",
+      "faceLtwh": [],
+      "order": 3
+    },
+    {
+      "id": "895643499206705153",
+      "hash": "image_picker_55A6235D-9FDC-4553-A486-F57D6E296DAB-20752-00000CFA",
+      "file": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker55a6235d-9fdc-4553-a486-f57d6e296dab-20752-00000cfab886c5a4.exe",
+      "preview": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker55a6235d-9fdc-4553-a486-f57d6e296dab-20752-00000cfab886c5a.jpeg",
+      "type": "photo",
+      "faceLtwh": [],
+      "order": 4
+    },
+    {
+      "id": "897587535876128771",
+      "hash": "image_picker_8272219A-F9D7-4D5F-AFBC-7A6F39A286E3-91511-00001095",
+      "file": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker8272219a-f9d7-4d5f-afbc-7a6f39a286e3-91511-000010951034f78.webp",
+      "preview": "https://storage.yandexcloud.net/twinby-dev/photos/861957992683536391/imagepicker8272219a-f9d7-4d5f-afbc-7a6f39a286e3-91511-000010951034f78.jpeg",
+      "type": "photo",
+      "faceLtwh": [],
+      "order": 5
+    }
+  ],
+  "notifications": {
+    "newLikes": true,
+    "newMatches": true,
+    "games": true,
+    "chatEvents": true,
+    "invites": true,
+    "news": true
+  },
+  "nameEditable": true,
+  "birthdayEditable": true,
+  "genderEditable": true,
+  "height": 175,
+  "children": 2,
+  "smoking": 1,
+  "alcohol": 1,
+  "education": 2,
+  "languages": null,
+  "isFirstInterviewCompleted": true,
+  "filter": {
+    "gender": "n",
+    "minAges": 18,
+    "maxAges": 80,
+    "distance": null,
+    "autoFilled": false,
+    "disabled": false
+  },
+  "isNewFeedTutorialPassed": true,
+  "invitedBy": null,
+  "appVersion": "1.4.1",
+  "showZodiacSign": true,
+  "target": null,
+  "moderationStatus": null
+}

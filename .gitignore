@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these files and directories
+!base.apk
+!apk-src/
+!apk-src/**
+!README.md
+!.gitignore

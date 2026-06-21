@@ -1,0 +1,137 @@
+{
+  "userAnalitics": [
+    {
+      "interviewName": "Big Five",
+      "traits": [
+        {
+          "traitId": "696038532375314433",
+          "traitName": "Openness",
+          "traitAntiName": "Conservatism",
+          "percent": 63,
+          "descr": "You can support and realize any adventure in this relationship. Ready to change for the sake of your partner, but it will be gradual. In your relationship, you are responsible for the balance between dreams and real life. \n\n You definitely won't be bored with this partner. Such a person is in adventure mode most of the time. You can support all the ideas but sometimes should offer to rethink the implementation of the plan. If you feel like you need a break, take one and go in search of new adventures with renewed vigor."
+        },
+        {
+          "traitId": "696038561946861569",
+          "traitName": "Conscientiousness",
+          "traitAntiName": "Disorganization",
+          "percent": 88,
+          "descr": "When it comes to quality planning, your relationship is a well-oiled machine. If one of you takes the initiative to plan a weekend getaway or a fun activity, the other is always on board. You two are a match made in heaven! \n\n You're a pro at balancing rationality and spontaneity - chaos and disorder make you uneasy, but rules and structure are still important. It'll be a breeze to divvy up responsibilities and clearly define your personal and shared priorities."
+        },
+        {
+          "traitId": "696038747399421953",
+          "traitName": "Agreeableness",
+          "traitAntiName": "Straightforwardness",
+          "percent": 75,
+          "descr": "This partner has a heart of gold and a sensitivity to match. Well, it's important to tread carefully when it comes to your words! Harsh remarks can sting like a bee and leave your partner feeling down in the dumps. \n\n But don't worry, this person is always ready to support you and your ideas, so make sure to show them some appreciation! After all, a little gratitude can go a long way. \n\n Now, let's talk about conflict. It's important to remember that your partner may be more affected by your expression and harsh language than you realize. So, in heated discussions, try your best to control your emotions and keep your voice down. \n\n So, in summary, be kind with your words, show appreciation for your partner's support, and keep a cool head during conflicts. With these tips, you and your sensitive partner can tackle any challenge that comes your way!"
+        },
+        {
+          "traitId": "696038775093559297",
+          "traitName": "Emotionality",
+          "traitAntiName": "Calmness",
+          "percent": 75,
+          "descr": "Sometimes, you might feel like your partner is a bit emotionally distant. It can be frustrating but rest assured, and they're not cold-hearted. When you're feeling anxious, they'll be there to support and encourage you, even if they don't always express their emotions in the way you might expect. This calm and collected partner prefers to stay level-headed and rational, avoiding unnecessary drama and emotional outbursts. \n\n Instead of getting hung up on their lack of emotions, focus on building confidence and promoting optimism in your relationship."
+        },
+        {
+          "traitId": "696626176682786817",
+          "traitName": "Extraversion",
+          "traitAntiName": "Introversion",
+          "percent": 63,
+          "descr": "Both of you are pretty sociable. But sometimes, your partner's need for communication can leave you feeling a bit overwhelmed. \n\n Your partner prefers to spend time in big and noisy companies, constantly making new friends and taking leadership. Sometimes you enjoy joining in on the fun, but you also need some alone time every now and then. It is imperative to have an honest dialogue and admit that you will not always be able to give the same amount of attention to your partner."
+        }
+      ],
+      "pairData": {
+        "me": [
+          {
+            "traitId": "696038532375314433",
+            "traitName": "Openness",
+            "traitAntiName": "Conservatism",
+            "percent": 50,
+            "descr": "Whether trying new foods, taking up a new hobby, or embarking on a spontaneous road trip, you're always open for a new expiriance.\n\nBut that doesn't mean you're reckless or impulsive. You understand the importance of balance and know when to slow down and enjoy the simple things in life. You're not afraid to try new things and go on wild escapades, but you also appreciate some stability and routine.\n\nWhen it comes to relationships, you're looking for someone who shares your sense of adventure and openness. You want a partner willing to try new things with you but also values stability and consistency.Together, you'll create your unique traditions and customs, making memories that will last a lifetime. Let's find your soulmate!"
+          },
+          {
+            "traitId": "696038561946861569",
+            "traitName": "Conscientiousness",
+            "traitAntiName": "Disorganization",
+            "percent": 50,
+            "descr": "You balance fun with responsibility. You are reliable and keep your word, but you're also adaptable to changing plans or something more interesting popping up. You're great at adapting to the goals of others and can easily switch your mindset. You know how to relax and enjoy life while making time for your job and relationship.\n\nHowever, it's crucial that your partner also take the responsibility seriously and doesn't need to be reminded of basic tasks or plans. Keeping promises and following through is a must for you."
+          },
+          {
+            "traitId": "696038747399421953",
+            "traitName": "Agreeableness",
+            "traitAntiName": "Straightforwardness",
+            "percent": 50,
+            "descr": "Nobody's perfect. Every once in a while, you might accidentally let a harsh comment slip out. But hey, you're only human, right?\n\nMost of the time, you're able to maintain a friendly atmosphere with just about everyone. However, there are always going to be those few people who are just tough to deal with. Instead of being direct with them, you've got a knack for using passive humor and harmless jokes to keep the peace. Smart move, my friend!\n\nWhen it comes to your partner, you're a total catch. You're willing to make some changes for the sake of the relationship, but you also value open and honest communication. So let's find you someone who can handle your charm and occasional sass!"
+          },
+          {
+            "traitId": "696038775093559297",
+            "traitName": "Emotionality",
+            "traitAntiName": "Calmness",
+            "percent": 50,
+            "descr": "It can be challenging to manage emotions. Despite this, you can instantly calm down when you need to pull yourself together. You know when to crack a joke and when to listen and offer support.\n\nRegarding relationships, you're looking for someone who can balance you out. It would be best to have someone who's not too hot-headed, right-rational, friendly, and always ready to chat and swap stories. And if things get too overwhelming, remember to take a deep breath and keep going. You are lucky, my friend, you've got everything for this!"
+          },
+          {
+            "traitId": "696626176682786817",
+            "traitName": "Extraversion",
+            "traitAntiName": "Introversion",
+            "percent": 50,
+            "descr": "You're happy to talk about all kinds of topics! You love being in the know and staying up-to-date with the latest news and events, but sometimes all that socializing can leave you feeling a little drained. That's when you know it's time to recharge your batteries and spend quality time alone.\n\nBut let's be honest, with your charming personality and engaging conversation skills. Anyone would be lucky to spend time with you! You especially enjoy the company of an extroverted partner, as they help bring out your social side and keep the energy levels high.\n\nIn a relationship, you shine when you're with someone who is outgoing and talkative, but you might start to feel a little bored with someone who's quiet. So, keep that in mind when you're out there searching for your perfect match!"
+          }
+        ],
+        "pair": [
+          {
+            "traitId": "696038532375314433",
+            "traitName": "Openness",
+            "traitAntiName": "Conservatism",
+            "percent": 92,
+            "descr": "You are always on the lookout for new experiences and ideas. Your imagination is continuously firing on all cylinders, and you're constantly coming up with new and exciting ways to express yourself. Whether it's through art, music, or writing, you have a boundless well of creativity that never runs dry. You're the type of person who's always on the move. You love attending lectures, taking courses, and going on excursions to learn new things and meet new people. You have a deep thirst for adventure, and you're always looking for the next challenge to conquer. You prefer to avoid being put in a box or being told what to do. Your motivation comes from within, and you won't let anyone stifle your creativity or hinder your progress.\n\nWhen it comes to relationships, you need a partner who can keep up with your energy and enthusiasm. You want someone who shares your passion for adventure and is willing to explore new ideas and experiences with you. You'll create a world of endless possibilities and push the boundaries together. So go ahead and let your imagination run wild, my friend! There's a whole world out there waiting for you to explore."
+          },
+          {
+            "traitId": "696038561946861569",
+            "traitName": "Conscientiousness",
+            "traitAntiName": "Disorganization",
+            "percent": 67,
+            "descr": "You balance fun with responsibility. You are reliable and keep your word, but you're also adaptable to changing plans or something more interesting popping up. You're great at adapting to the goals of others and can easily switch your mindset. You know how to relax and enjoy life while making time for your job and relationship.\n\nHowever, it's crucial that your partner also take the responsibility seriously and doesn't need to be reminded of basic tasks or plans. Keeping promises and following through is a must for you."
+          },
+          {
+            "traitId": "696038747399421953",
+            "traitName": "Agreeableness",
+            "traitAntiName": "Straightforwardness",
+            "percent": 83,
+            "descr": "You are one kind and caring soul, always respecting the feelings of those around you. Conflict? Not your style! You have a natural talent for pointing out mistakes in a way that helps people grow without bruising their egos. You're all about building warm, close relationships, and it's important to you that those around you share the same values. After all, mutual respect is the key to a harmonious existence!\n\nWhen it comes to your partner, you need someone who's quick-witted and always up for an open and honest conversation. You truly believe that respect and empathy are essential in any situation - even when things get stressful."
+          },
+          {
+            "traitId": "696038775093559297",
+            "traitName": "Emotionality",
+            "traitAntiName": "Calmness",
+            "percent": 25,
+            "descr": "You're a rock of stability and keep a cool head in most situations. You're great at managing your emotions and approaching problems with logic and reason.\n\nYou enjoy being around emotional people as long as they know how to keep things in check and approach discussions with an open mind. You value a partner who can stay grounded and realistic and quickly switch to a positive, productive mindset."
+          },
+          {
+            "traitId": "696626176682786817",
+            "traitName": "Extraversion",
+            "traitAntiName": "Introversion",
+            "percent": 92,
+            "descr": "Hey there, social butterfly! You were born to be in the spotlight. You need variety and spice in your life!\n\nBut here's the thing - you don't just thrive alone. The support and approval of others is like fuel for your fire. So when it comes to finding a partner, you're looking for someone as outgoing and supportive as you are — a like-minded person who's always ready to lend an ear and lift you up. And remember the daily debrief - exchanging opinions about your impressions is an absolute must! \n\nSo keep on shining! With your zest for life and outgoing nature, the world is your playground, with endless possibilities."
+          }
+        ]
+      }
+    }
+  ],
+  "percent": 73,
+  "user": {
+    "id": "123",
+    "name": "Тестировщик",
+    "avatar": {
+      "id": "123",
+      "file": "https://www.w3schools.com/howto/img_avatar.png",
+      "type": "photo",
+      "faceLtwh": []
+    },
+    "ages": null,
+    "distance": 10071,
+    "verified": false,
+    "compatibility": 73,
+    "online": false,
+    "gender": null
+  }
+}

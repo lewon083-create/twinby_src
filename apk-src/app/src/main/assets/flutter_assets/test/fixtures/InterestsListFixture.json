@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1000140750581366785",
+    "group": "Sport Activities",
+    "name": "Running",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/beg.png"
+  },
+  {
+    "id": "1000140752092626945",
+    "group": "Sport Activities",
+    "name": "Swimming",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/plavanie.png"
+  },
+  {
+    "id": "1000140753608441857",
+    "group": "Sport Activities",
+    "name": "Yoga",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/joga.png"
+  },
+  {
+    "id": "1000140755135496193",
+    "group": "Sport Activities",
+    "name": "Cycling",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/velosport.png"
+  },
+  {
+    "id": "1000140756648329217",
+    "group": "Sport Activities",
+    "name": "Gym",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/sportzal.png"
+  },
+  {
+    "id": "1000140758140256257",
+    "group": "Sport Activities",
+    "name": "Skiing",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/lyizhi.png"
+  },
+  {
+    "id": "1000140759644831745",
+    "group": "Sport Activities",
+    "name": "Snowboarding",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/snoubord.png"
+  },
+  {
+    "id": "1000140761173164033",
+    "group": "Sport Activities",
+    "name": "Dancing",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/tantsyi.png"
+  },
+  {
+    "id": "1000140762713915393",
+    "group": "Sport Activities",
+    "name": "Martial arts",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/boevyie-iskusstva.png"
+  },
+  {
+    "id": "1000140764246278145",
+    "group": "Sport Activities",
+    "name": "Surfing",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/serfing.png"
+  },
+  {
+    "id": "1000140766269702145",
+    "group": "Sport Activities",
+    "name": "Hiking",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/hajking.png"
+  },
+  {
+    "id": "1000140767838109697",
+    "group": "Sport Activities",
+    "name": "Tennis",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/tennis.png"
+  },
+  {
+    "id": "1000140769374502913",
+    "group": "Sport Activities",
+    "name": "Rock",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/skalolazanie.png"
+  },
+  {
+    "id": "1000140771697131521",
+    "group": "Creativity and Art",
+    "name": "Painting",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/zhivopis.png"
+  },
+  {
+    "id": "1000140773313642497",
+    "group": "Creativity and Art",
+    "name": "Photography",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/fotografiya.png"
+  },
+  {
+    "id": "1000140774927466497",
+    "group": "Creativity and Art",
+    "name": "Music",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/muzyika.png"
+  },
+  {
+    "id": "1000140776538734593",
+    "group": "Creativity and Art",
+    "name": "Singing",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/penie.png"
+  },
+  {
+    "id": "1000140778253451265",
+    "group": "Creativity and Art",
+    "name": "Writing",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/pisatelstvo.png"
+  },
+  {
+    "id": "1000140779888279553",
+    "group": "Creativity and Art",
+    "name": "Sculpture",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/skulptura.png"
+  },
+  {
+    "id": "1000140781428768769",
+    "group": "Creativity and Art",
+    "name": "Theater",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/teatr.png"
+  },
+  {
+    "id": "1000140783384756225",
+    "group": "Creativity and Art",
+    "name": "Cinema",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/kino.png"
+  },
+  {
+    "id": "1000140784937238529",
+    "group": "Creativity and Art",
+    "name": "Handicrafts",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/rukodelie.png"
+  },
+  {
+    "id": "1000140787283460097",
+    "group": "Gastronomy",
+    "name": "Cooking",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/gotovka.png"
+  },
+  {
+    "id": "1000140788833157121",
+    "group": "Gastronomy",
+    "name": "Wine Tasting",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/degustatsiya-vin.png"
+  },
+  {
+    "id": "1000140790364602369",
+    "group": "Gastronomy",
+    "name": "Pub Crawl",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/tur-po-baram.png"
+  },
+  {
+    "id": "1000140791918002177",
+    "group": "Gastronomy",
+    "name": "Coffee Expert",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/kofejnyij-ekspert.png"
+  },
+  {
+    "id": "1000140793470877697",
+    "group": "Gastronomy",
+    "name": "Tea Ceremonies",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/chajnyie-tseremonii.png"
+  },
+  {
+    "id": "1000140795025784833",
+    "group": "Gastronomy",
+    "name": "Vegetarian Cuisine",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/vegetarianskaya-kuhnya.png"
+  },
+  {
+    "id": "1000140796553494529",
+    "group": "Gastronomy",
+    "name": "Restaurant Critic",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/restorannyij-kritik.png"
+  },
+  {
+    "id": "1000140798087823361",
+    "group": "Gastronomy",
+    "name": "Sweet Tooth",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/lyubitel-sladkogo.png"
+  },
+  {
+    "id": "1000140800800751617",
+    "group": "Creativity and Art",
+    "name": "Literature",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/literatura.png"
+  },
+  {
+    "id": "1000140802349924353",
+    "group": "Creativity and Art",
+    "name": "Video Games",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/videoigryi.png"
+  },
+  {
+    "id": "1000140803891167233",
+    "group": "Creativity and Art",
+    "name": "Board games",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/nastolnyie-igryi.png"
+  },
+  {
+    "id": "1000140805438013441",
+    "group": "Creativity and Art",
+    "name": "Travel",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/puteshestviya.png"
+  },
+  {
+    "id": "1000140806956449793",
+    "group": "Creativity and Art",
+    "name": "Growing plants",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/vyiraschivanie-rastenij.png"
+  },
+  {
+    "id": "1000140808570830849",
+    "group": "Creativity and Art",
+    "name": "Fishing",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/ryibalka.png"
+  },
+  {
+    "id": "1000140810120691713",
+    "group": "Creativity and Art",
+    "name": "Walking dogs",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/progulki-s-sobakami.png"
+  },
+  {
+    "id": "1000140811666489345",
+    "group": "Creativity and Art",
+    "name": "Cat lover",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/lyubitel-koshek.png"
+  },
+  {
+    "id": "1000140813262520321",
+    "group": "Creativity and Art",
+    "name": "Cars and motorcycles",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/avtomobili-i-mototsiklyi.png"
+  },
+  {
+    "id": "1000140814789115905",
+    "group": "Creativity and Art",
+    "name": "Concerts",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/kontsertyi.png"
+  },
+  {
+    "id": "1000140817490640897",
+    "group": "Education and self-development",
+    "name": "Learning languages",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/izuchenie-yazyikov.png"
+  },
+  {
+    "id": "1000140819036602369",
+    "group": "Education and self-development",
+    "name": "Scientific lectures",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/nauchnyie-lektsii.png"
+  },
+  {
+    "id": "1000140820580270081",
+    "group": "Education and self-development",
+    "name": "Online courses",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/onlajn-kursyi.png"
+  },
+  {
+    "id": "1000140822084812801",
+    "group": "Education and self-development",
+    "name": "Self-education",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/samoobrazovanie.png"
+  },
+  {
+    "id": "1000140823598268417",
+    "group": "Education and self-development",
+    "name": "Meditation",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/meditatsiya.png"
+  },
+  {
+    "id": "1000140825115623425",
+    "group": "Education and self-development",
+    "name": "Psychology",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/psihologiya.png"
+  },
+  {
+    "id": "1000140826621149185",
+    "group": "Education and self-development",
+    "name": "Philosophy",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/filosofiya.png"
+  },
+  {
+    "id": "1000140828135587841",
+    "group": "Education and self-development",
+    "name": "History",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/istoriya.png"
+  },
+  {
+    "id": "1000140829740335105",
+    "group": "Education and self-development",
+    "name": "Technology",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/tehnologii.png"
+  },
+  {
+    "id": "1000140831250579457",
+    "group": "Education and self-development",
+    "name": "Reading",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/chtenie.png"
+  },
+  {
+    "id": "1000140833994276865",
+    "group": "Social activity",
+    "name": "Volunteering",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/volonterstvo.png"
+  },
+  {
+    "id": "1000140835551838209",
+    "group": "Social activity",
+    "name": "Charity",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/blagotvoritelnost.png"
+  },
+  {
+    "id": "1000140837082988545",
+    "group": "Social activity",
+    "name": "Ecoactivism",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/ekoaktivizm.png"
+  },
+  {
+    "id": "1000140838614663169",
+    "group": "Social activity",
+    "name": "Helping the elderly",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/pomosch-pozhilyim.png"
+  },
+  {
+    "id": "1000140840161050625",
+    "group": "Social activity",
+    "name": "Working with children",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/rabota-s-detmi.png"
+  },
+  {
+    "id": "1000140841695281153",
+    "group": "Social activity",
+    "name": "Animal protection",
+    "icon": "https://storage.yandexcloud.net/twinby-dev/interest/zaschita-zhivotnyih.png"
+  }
+]

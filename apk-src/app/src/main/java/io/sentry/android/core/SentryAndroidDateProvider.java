@@ -1,0 +1,19 @@
+package io.sentry.android.core;
+
+import io.sentry.SentryDate;
+import io.sentry.SentryDateProvider;
+import io.sentry.SentryNanotimeDateProvider;
+import org.jetbrains.annotations.NotNull;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes2.dex */
+public final class SentryAndroidDateProvider implements SentryDateProvider {
+
+    @NotNull
+    private SentryDateProvider dateProvider = new SentryNanotimeDateProvider();
+
+    @Override // io.sentry.SentryDateProvider
+    public SentryDate now() {
+        return this.dateProvider.now();
+    }
+}

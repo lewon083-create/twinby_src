@@ -1,0 +1,23 @@
+package yads;
+
+import java.util.UUID;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes2.dex */
+public abstract class jr {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public static final UUID f39932a = new UUID(0, 0);
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public static final UUID f39933b = new UUID(1186680826959645954L, -5988876978535335093L);
+
+    /* JADX INFO: renamed from: c, reason: collision with root package name */
+    public static final UUID f39934c = new UUID(-2129748144642739255L, 8654423357094679310L);
+
+    /* JADX INFO: renamed from: d, reason: collision with root package name */
+    public static final UUID f39935d = new UUID(-1301668207276963122L, -6645017420763422227L);
+
+    /* JADX INFO: renamed from: e, reason: collision with root package name */
+    public static final UUID f39936e = new UUID(-7348484286925749626L, -6083546864340672619L);
+}

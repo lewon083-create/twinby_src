@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "text": {
+      "ru": "Если прямо сейчас ты получишь билет на любой рейс, в какую страну отправишься?",
+      "en": "If you could travel to any country right now, where would you go?"
+    },
+    "icon": "\u2708\uFE0F"
+  },
+  {
+    "id": "2",
+    "text": {
+      "ru": "Какой любимый фильм ты можешь пересматривать бесконечно?",
+      "en": "What\u2019s your favorite movie that you could watch over and over again?"
+    },
+    "icon": "\uD83C\uDFAC"
+  },
+  {
+    "id": "3",
+    "text": {
+      "ru": "Как ты относишься к спонтанным свиданиям?",
+      "en": "How do you feel about spontaneous dates?"
+    },
+    "icon": "\uD83C\uDFB2"
+  },
+  {
+    "id": "4",
+    "text": {
+      "ru": "Какой романтический жест тебе кажется идеальным?",
+      "en": "What\u2019s the most romantic gesture in your opinion?"
+    },
+    "icon": "\uD83D\uDC8C"
+  },
+  {
+    "id": "5",
+    "text": {
+      "ru": "Какое из твоих свиданий было самым смешным или странным?",
+      "en": "Which date of yours can you call funny or weird?"
+    },
+    "icon": "\uD83D\uDE05"
+  },
+  {
+    "id": "6",
+    "text": {
+      "ru": "Какую песню ты можешь слушать на репите?",
+      "en": "What song can you listen to on repeat?"
+    },
+    "icon": "\uD83C\uDFA7"
+  },
+  {
+    "id": "7",
+    "text": {
+      "ru": "Если бы про твою жизнь снимали фильм, какой бы это был жанр?",
+      "en": "If your life were a movie, what genre would it be?"
+    },
+    "icon": "\uD83C\uDFAD"
+  },
+  {
+    "id": "8",
+    "text": {
+      "ru": "Какой твой последний подкаст в плейлисте «прослушанное»?",
+      "en": "What\u2019s the last podcast you listened to?"
+    },
+    "icon": "\uD83C\uDF99\uFE0F"
+  },
+  {
+    "id": "9",
+    "text": {
+      "ru": "У тебя есть три желания. Что ты загадаешь?",
+      "en": "If you had three wishes, what would you ask for?"
+    },
+    "icon": "\uD83E\uDE84"
+  },
+  {
+    "id": "10",
+    "text": {
+      "ru": "Что для тебя идеальный выходной?",
+      "en": "What does your perfect day off look like?"
+    },
+    "icon": "\uD83C\uDF24\uFE0F"
+  },
+  {
+    "id": "11",
+    "text": {
+      "ru": "Какая твоя любимая книга?",
+      "en": "What\u2019s your favorite book?"
+    },
+    "icon": "\uD83D\uDCDA"
+  },
+  {
+    "id": "12",
+    "text": {
+      "ru": "Какое твое любимое место для свиданий?",
+      "en": "What\u2019s your favorite date spot?"
+    },
+    "icon": "\uD83C\uDF07"
+  },
+  {
+    "id": "13",
+    "text": {
+      "ru": "Какой твой любимый мем?",
+      "en": "What\u2019s your favorite meme?"
+    },
+    "icon": "\uD83D\uDE02"
+  },
+  {
+    "id": "14",
+    "text": {
+      "ru": "Если бы можно было выбрать любую суперсилу, то какая бы стала твоей?",
+      "en": "If you could have any superpower, what would it be?"
+    },
+    "icon": "\uD83E\uDDB8"
+  },
+  {
+    "id": "15",
+    "text": {
+      "ru": "Как представляешь идеальное первое свидание?",
+      "en": "What\u2019s your idea of a perfect first date?"
+    },
+    "icon": "\uD83D\uDD6F\uFE0F"
+  },
+  {
+    "id": "16",
+    "text": {
+      "ru": "Как начался твой день?",
+      "en": "How did your day start?"
+    },
+    "icon": "\uD83C\uDF05"
+  },
+  {
+    "id": "17",
+    "text": {
+      "ru": "Какая песня звучит в твоей голове, когда влюбляешься?",
+      "en": "What song plays in your head when you\u2019re in love?"
+    },
+    "icon": "\uD83C\uDFB6"
+  },
+  {
+    "id": "18",
+    "text": {
+      "ru": "У тебя появился телепорт на один день. Где окажешься?",
+      "en": "You have a teleporter for one day \u2014 where are you going?"
+    },
+    "icon": "\uD83D\uDDFA\uFE0F"
+  },
+  {
+    "id": "19",
+    "text": {
+      "ru": "Куда идешь первым делом, когда есть свободное утро?",
+      "en": "You wake up with a free morning \u2014 where\u2019s the first place you go?"
+    },
+    "icon": "\u2615"
+  },
+  {
+    "id": "20",
+    "text": {
+      "ru": "После какого красного флага от дейта ты точно не пойдешь на свидание?",
+      "en": "What\u2019s a red flag that guarantees there won\u2019t be a second date?"
+    },
+    "icon": "\uD83D\uDEA9"
+  },
+  {
+    "id": "21",
+    "text": {
+      "ru": "Если бы у нас было первое свидание в альтернативной вселенной, каким бы оно было?",
+      "en": "If we had our first date in an alternate universe, what would it be like?"
+    },
+    "icon": "\uD83C\uDF0C"
+  },
+  {
+    "id": "22",
+    "text": {
+      "ru": "Как выглядит твое идеальное утро?",
+      "en": "What does your perfect morning look like?"
+    },
+    "icon": "\uD83C\uDF1E"
+  },
+  {
+    "id": "23",
+    "text": {
+      "ru": "Если представить, что ты можешь переименовать любую вещь на свете \u2014 что бы это было?",
+      "en": "If you could rename anything in the world, what would it be?"
+    },
+    "icon": "\uD83D\uDD8B\uFE0F"
+  },
+  {
+    "id": "24",
+    "text": {
+      "ru": "Если бы у тебя был говорящий питомец, какие три фразы он бы чаще всего говорил?",
+      "en": "If your pet could talk, what three things would it say the most?"
+    },
+    "icon": "\uD83D\uDC3E"
+  },
+  {
+    "id": "25",
+    "text": {
+      "ru": "Если изобретут машину времени, куда ты отправишься?",
+      "en": "If you could time travel, where would you go?"
+    },
+    "icon": "\uD83D\uDD70\uFE0F"
+  },
+  {
+    "id": "26",
+    "text": {
+      "ru": "Если бы у тебя был ресторан, каким было бы его фирменное блюдо?",
+      "en": "If you owned a restaurant, what would your signature dish be?"
+    },
+    "icon": "\uD83C\uDF5D"
+  },
+  {
+    "id": "27",
+    "text": {
+      "ru": "Каким был бы твой выбор, если бы была возможность на один день поменяться телами с любым человеком?",
+      "en": "If you could live a day in someone else\u2019s body, who would it be?"
+    },
+    "icon": "\uD83D\uDC64"
+  },
+  {
+    "id": "28",
+    "text": {
+      "ru": "Если бы твоя жизнь была компьютерной игрой, как бы она называлась и в каком жанре была бы?",
+      "en": "If your life were a video game, what would its name and genre be?"
+    },
+    "icon": "\uD83C\uDFAE"
+  },
+  {
+    "id": "29",
+    "text": {
+      "ru": "Ты просыпаешься и понимаешь, что ты – главный герой мультфильма. В каком ты мультфильме?",
+      "en": "You wake up and realize you\u2019re the main character of a cartoon. Which one?"
+    },
+    "icon": "\uD83D\uDCFA"
+  },
+  {
+    "id": "30",
+    "text": {
+      "ru": "Что самое запоминающееся случилось с тобой за последний месяц?",
+      "en": "What\u2019s the most memorable thing that happened to you this past month?"
+    },
+    "icon": "\uD83D\uDCC6"
+  },
+  {
+    "id": "31",
+    "text": {
+      "ru": "Как ты принимаешь решение, кому поставить лайк/дизлайк?",
+      "en": "How do you decide who to like or dislike on a dating app?"
+    },
+    "icon": "\uD83D\uDCAC"
+  },
+  {
+    "id": "32",
+    "text": {
+      "ru": "После какого грин-флага ты точно пойдешь на свидание?",
+      "en": "What would be a green flag that makes you want to go on a date with someone?"
+    },
+    "icon": "\uD83D\uDFE2"
+  },
+  {
+    "id": "33",
+    "text": {
+      "ru": "Какой у тебя есть скрытый скил, которым ты гордишься?",
+      "en": "What\u2019s an underrated skill you have that you\u2019re proud of?"
+    },
+    "icon": "\uD83E\uDDE0"
+  },
+  {
+    "id": "34",
+    "text": {
+      "ru": "Какой безумной идее ты можешь сказать «да» прямо сейчас?",
+      "en": "What crazy idea would you say \u201Cyes\u201D to right now?"
+    },
+    "icon": "\uD83D\uDE1C"
+  },
+  {
+    "id": "35",
+    "text": {
+      "ru": "Если бы твоя жизнь была сериалом \u2014 как бы он назывался?",
+      "en": "If your life were a series \u2014 what would it be called?"
+    },
+    "icon": "\uD83D\uDCFD\uFE0F"
+  },
+  {
+    "id": "36",
+    "text": {
+      "ru": "Что ты чаще всего теряешь?",
+      "en": "What\u2019s something you lose most often?"
+    },
+    "icon": "\uD83D\uDD11"
+  },
+  {
+    "id": "37",
+    "text": {
+      "ru": "Что в последний раз заставило тебя смеяться до слез?",
+      "en": "When was the last time you laughed until you cried?"
+    },
+    "icon": "\uD83E\uDD23"
+  },
+  {
+    "id": "38",
+    "text": {
+      "ru": "С каким персонажем хотелось бы сходить на свидание \u2014 из книг, фильмов, игр?",
+      "en": "Which character from a book, movie, or game would you go on a date with?"
+    },
+    "icon": "\uD83D\uDC98"
+  },
+  {
+    "id": "39",
+    "text": {
+      "ru": "Есть ли у тебя место, куда ты возвращаешься мысленно, когда все надоело?",
+      "en": "Do you have a mental escape \u2014 a place you return to in your thoughts?"
+    },
+    "icon": "\uD83C\uDFDE\uFE0F"
+  },
+  {
+    "id": "40",
+    "text": {
+      "ru": "Если бы свидание начиналось с одного слова \u2014 каким бы оно было?",
+      "en": "If a date started with just one word, what word would you choose?"
+    },
+    "icon": "\uD83D\uDDE3\uFE0F"
+  }
+]

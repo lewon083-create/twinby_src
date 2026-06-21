@@ -1,0 +1,206 @@
+[
+  {
+    "id": "751201682443534338",
+    "parentId": null,
+    "title": "Fake profile",
+    "order": 100
+  },
+  {
+    "id": "751201682486034434",
+    "parentId": "751201682443534338",
+    "title": "Uses my data",
+    "order": 101
+  },
+  {
+    "id": "751201682520047618",
+    "parentId": "751201682443534338",
+    "title": "Uses my friend's data",
+    "order": 102
+  },
+  {
+    "id": "751201682543443970",
+    "parentId": "751201682443534338",
+    "title": "Uses the data of a famous person",
+    "order": 103
+  },
+  {
+    "id": "751201682609242114",
+    "parentId": "751201682443534338",
+    "title": "Behaves like a robot",
+    "order": 104
+  },
+  {
+    "id": "751201682665963522",
+    "parentId": "751201682443534338",
+    "title": "Does not tell anything about himself",
+    "order": 105
+  },
+  {
+    "id": "751201682685624322",
+    "parentId": "751201682443534338",
+    "title": "Other",
+    "order": 106
+  },
+  {
+    "id": "751201682725404674",
+    "parentId": null,
+    "title": "Irrelevant content",
+    "order": 200
+  },
+  {
+    "id": "751201682743885826",
+    "parentId": "751201682725404674",
+    "title": "Irrelevant photos",
+    "order": 201
+  },
+  {
+    "id": "751201682764201986",
+    "parentId": "751201682725404674",
+    "title": "Irrelevant text",
+    "order": 202
+  },
+  {
+    "id": "751201682806112258",
+    "parentId": "751201682725404674",
+    "title": "Other",
+    "order": 203
+  },
+  {
+    "id": "751201682823053314",
+    "parentId": null,
+    "title": "Age is not real",
+    "order": 300
+  },
+  {
+    "id": "751201682835177474",
+    "parentId": "751201682823053314",
+    "title": "Looks younger than 18",
+    "order": 301
+  },
+  {
+    "id": "751201682850775042",
+    "parentId": "751201682823053314",
+    "title": "Says he/she's under 18",
+    "order": 302
+  },
+  {
+    "id": "751201682935513090",
+    "parentId": "751201682823053314",
+    "title": "I know that the user is under 18",
+    "order": 303
+  },
+  {
+    "id": "751201682959859714",
+    "parentId": "751201682823053314",
+    "title": "Other",
+    "order": 304
+  },
+  {
+    "id": "751201683086114818",
+    "parentId": null,
+    "title": "Offensive behavior",
+    "order": 400
+  },
+  {
+    "id": "751201683153059842",
+    "parentId": "751201683086114818",
+    "title": "Racism",
+    "order": 401
+  },
+  {
+    "id": "751201683247300610",
+    "parentId": "751201683086114818",
+    "title": "Bullying",
+    "order": 402
+  },
+  {
+    "id": "751201683257294850",
+    "parentId": "751201683086114818",
+    "title": "Sexism",
+    "order": 403
+  },
+  {
+    "id": "751201683277709314",
+    "parentId": "751201683086114818",
+    "title": "Body Shaming",
+    "order": 404
+  },
+  {
+    "id": "751201683289538562",
+    "parentId": "751201683086114818",
+    "title": "Other",
+    "order": 405
+  },
+  {
+    "id": "751201683299336194",
+    "parentId": null,
+    "title": "Behavior in real life",
+    "order": 500
+  },
+  {
+    "id": "751201683309035522",
+    "parentId": "751201683299336194",
+    "title": "Negative experience on a date",
+    "order": 501
+  },
+  {
+    "id": "751201683321159682",
+    "parentId": "751201683299336194",
+    "title": "Physical violence",
+    "order": 502
+  },
+  {
+    "id": "751201683332136962",
+    "parentId": "751201683299336194",
+    "title": "Psychological violence",
+    "order": 503
+  },
+  {
+    "id": "751201683345276930",
+    "parentId": "751201683299336194",
+    "title": "Sexualized violence",
+    "order": 504
+  },
+  {
+    "id": "751201683355697154",
+    "parentId": "751201683299336194",
+    "title": "I know this person and I want to complain",
+    "order": 505
+  },
+  {
+    "id": "751201683367624706",
+    "parentId": "751201683299336194",
+    "title": "Other",
+    "order": 506
+  },
+  {
+    "id": "751201683378176002",
+    "parentId": null,
+    "title": "Fraud or spam",
+    "order": 600
+  },
+  {
+    "id": "751201683386171394",
+    "parentId": "751201683378176002",
+    "title": "Sends spam or suspicious links",
+    "order": 601
+  },
+  {
+    "id": "751201683404029954",
+    "parentId": "751201683378176002",
+    "title": "Sells goods or services",
+    "order": 602
+  },
+  {
+    "id": "751201683416055810",
+    "parentId": "751201683378176002",
+    "title": "Advertises accounts in social networks",
+    "order": 603
+  },
+  {
+    "id": "751201683426377730",
+    "parentId": "751201683378176002",
+    "title": "Other",
+    "order": 604
+  }
+]

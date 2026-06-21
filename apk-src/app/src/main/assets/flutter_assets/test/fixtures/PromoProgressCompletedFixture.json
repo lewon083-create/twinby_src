@@ -1,0 +1,26 @@
+[
+  {
+    "complete": true,
+    "id": "1",
+    "name": "Promo action",
+    "startDate": "2024-02-02T07:29:02.874284Z",
+    "endDate": "2044-02-02T07:29:02.874284Z",
+    "function": "InviteThreePeople",
+    "description": "",
+    "invitedCount": 3,
+    "invitedUsers": [
+      {
+        "id": "1",
+        "avatar": ""
+      },
+      {
+        "id": "2",
+        "avatar": ""
+      },
+      {
+        "id": "3",
+        "avatar": ""
+      }
+    ]
+  }
+]

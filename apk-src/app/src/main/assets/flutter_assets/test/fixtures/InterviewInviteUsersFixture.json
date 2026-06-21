@@ -1,0 +1,77 @@
+{
+  "id": "689835470004879361",
+  "name": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0438",
+  "logo": "https://storage.yandexcloud.net/twinby-dev/interview/image-test-2.webp",
+  "users": [
+    {
+      "id": "942865309017964545",
+      "uuid": "9428-653090-17964545",
+      "userPkId": "807826954367762437",
+      "userName": "\u0421\u0435\u0440\u0436",
+      "userBirthday": "2003-10-24",
+      "userAvatar": "https://storage.yandexcloud.net/twinby-dev/photos/807826954367762437/scaledimagepicker8714871218793934528.jpg",
+      "userVerified": false,
+      "isPremium": true
+    },
+    {
+      "id": "942865836465192963",
+      "uuid": "9428-6583646519-2963",
+      "userPkId": "862895234633269255",
+      "userName": "\u0412\u0430\u043d\u044f",
+      "userBirthday": "2004-09-14",
+      "userAvatar": "https://storage.yandexcloud.net/twinby-dev/photos/862895234633269255/scaledxzgaghuqy4g-1.jpg",
+      "userVerified": false,
+      "isPremium": false
+    },
+    {
+      "id": "946929086672371713",
+      "uuid": "946929-08667237-1713",
+      "userPkId": "875859288597692430",
+      "userName": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432",
+      "userBirthday": "1995-09-16",
+      "userAvatar": "https://storage.yandexcloud.net/twinby-dev/photos/875859288597692430/imagepickerfbbafbf1-2ac2-4cac-9af7-e3318c925f6a-12450-000003d77bd7bafe.jpg",
+      "userVerified": true,
+      "isPremium": false
+    },
+    {
+      "id": "941759053726679041",
+      "uuid": "9417-59053726-679041",
+      "userPkId": "888817310906155010",
+      "userName": "\u041c\u0430\u043a\u0441\u0438\u043c",
+      "userBirthday": "2003-04-20",
+      "userAvatar": "https://storage.yandexcloud.net/twinby-dev/photos/888817310906155010/scaled1689689688278.jpg",
+      "userVerified": false,
+      "isPremium": false
+    },
+    {
+      "id": "942864530414895107",
+      "uuid": "94286-4530414-895107",
+      "userPkId": "889104213892005889",
+      "userName": "\u041d\u0435\u043b\u043b\u0438",
+      "userBirthday": "1999-08-01",
+      "userAvatar": "https://storage.yandexcloud.net/twinby-dev/photos/889104213892005889/imagepickerb707301e-d072-4771-8aea-62b35480d1a7-16747-00000260c87c4c53.jpg",
+      "userVerified": false,
+      "isPremium": false
+    },
+    {
+      "id": "942863990158852097",
+      "uuid": "9428639-901588-52097",
+      "userPkId": "890830910202281987",
+      "userName": "\u0412\u0430\u0441\u0438\u043b\u0438\u0439",
+      "userBirthday": "2004-01-03",
+      "userAvatar": "https://storage.yandexcloud.net/twinby-dev/photos/890830910202281987/scaled178896c8-386e-453a-be34-2016cab76db84167647681671788577.jpg",
+      "userVerified": false,
+      "isPremium": false
+    },
+    {
+      "id": "942865734882983937",
+      "uuid": "94286-573488298-3937",
+      "userPkId": "890937616094298114",
+      "userName": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+      "userBirthday": "1983-05-22",
+      "userAvatar": "https://storage.yandexcloud.net/twinby-dev/photos/890937616094298114/scaled1679062003580.jpg",
+      "userVerified": false,
+      "isPremium": false
+    }
+  ]
+}

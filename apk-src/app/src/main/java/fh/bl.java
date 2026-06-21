@@ -1,0 +1,22 @@
+package fh;
+
+import com.yandex.div.internal.parser.TypeHelper;
+import com.yandex.div.json.expressions.Expression;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes2.dex */
+public abstract class bl {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public static final Expression f16946a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public static final TypeHelper f16947b;
+
+    static {
+        Expression.Companion companion = Expression.Companion;
+        ro roVar = ro.DP;
+        f16946a = Expression.Companion.constant$default(companion, roVar, null, 2, null);
+        f16947b = TypeHelper.Companion.from(roVar, mg.D);
+    }
+}

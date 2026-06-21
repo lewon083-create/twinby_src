@@ -1,0 +1,19 @@
+package com.google.android.gms.internal.measurement;
+
+/* JADX INFO: compiled from: r8-map-id-c151d27eb9f4c00b335bd72ad6c9ab5c682fb50bb0d055f47144f326a6351039 */
+/* JADX INFO: loaded from: classes.dex */
+public final class r7 implements q7 {
+
+    /* JADX INFO: renamed from: a, reason: collision with root package name */
+    public static final n4 f13946a;
+
+    /* JADX INFO: renamed from: b, reason: collision with root package name */
+    public static final n4 f13947b;
+
+    static {
+        boolean z5 = true;
+        com.google.android.gms.internal.auth.q qVar = new com.google.android.gms.internal.auth.q(m4.a(), z5, z5);
+        f13946a = qVar.b("measurement.set_default_event_parameters_propagate_clear.client.dev", true);
+        f13947b = qVar.b("measurement.set_default_event_parameters_propagate_clear.service", true);
+    }
+}

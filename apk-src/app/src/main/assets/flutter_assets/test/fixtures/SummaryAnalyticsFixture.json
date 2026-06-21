@@ -1,0 +1,97 @@
+{
+  "percent": "83.00",
+  "selectedPair": false,
+  "descr": "Have you two met in a past life? You and your partner are highly compatible. You have similar values, habits, behaviors, and aspirations. In your relationship, you'll understand each other with just a glance. Similar desires and interests - what could be better!",
+  "tags": [
+    {
+      "sim": "Shared Values:\n With aligned life principles, your journey together becomes more harmonious",
+      "dif": "Differences habits:\n Understanding your partner's daily habits can sometimes be challenging"
+    }
+  ],
+  "interviews": [
+    {
+      "id": "689835470004879361",
+      "name": "Big Five",
+      "shortDescription": "Evaluate the significance of the main\npersonality traits",
+      "interviewType": "big5",
+      "isPremium": false,
+      "status": 4,
+      "invited": false,
+      "logo": "https://www.w3schools.com/howto/img_avatar.png",
+      "percent": 83
+    },
+    {
+      "id": "777007665637523459",
+      "name": "Attachment style",
+      "shortDescription": "Discover your desired level of care and attention from your partner, and also assess how much you're capable of giving in return.",
+      "interviewType": "attachment_styles",
+      "isPremium": true,
+      "status": 3,
+      "invited": false,
+      "logo": "https://www.w3schools.com/howto/img_avatar.png",
+      "percent": null
+    },
+    {
+      "id": "1",
+      "name": "Personality Type",
+      "shortDescription": "Uncover your psycho-type and explore the reasons\nbehind your actions and choices",
+      "interviewType": "mbti",
+      "isPremium": false,
+      "status": 1,
+      "invited": false,
+      "logo": "https://www.w3schools.com/howto/img_avatar.png",
+      "percent": null
+    },
+    {
+      "id": "956410377034203137",
+      "name": "Big10",
+      "shortDescription": "short",
+      "interviewType": "big5",
+      "isPremium": false,
+      "status": 0,
+      "invited": false,
+      "logo": null,
+      "percent": 83
+    },
+    {
+      "id": "968713737327476740",
+      "name": "",
+      "shortDescription": "",
+      "interviewType": "dark_traits",
+      "isPremium": false,
+      "status": 0,
+      "invited": false,
+      "logo": null,
+      "percent": null
+    },
+    {
+      "id": "762546696850178049",
+      "name": "Type of temperament",
+      "shortDescription": "Choleric, sanguine, melancholic and phlegmatic — how does your temperament affect relationships?",
+      "interviewType": "dark_traits",
+      "isPremium": false,
+      "status": 0,
+      "invited": false,
+      "logo": "https://www.w3schools.com/howto/img_avatar.png",
+      "percent": null
+    }
+  ],
+  "interviewTags": [],
+  "user": {
+    "id": "1",
+    "name": "Tester",
+    "avatar": {
+      "id": "854821377208123401",
+      "file": "https://www.w3schools.com/howto/img_avatar.png",
+      "type": "photo",
+      "faceLtwh": [],
+      "preview": "https://www.w3schools.com/howto/img_avatar.png"
+    },
+    "ages": 25,
+    "distance": 17261,
+    "verified": false,
+    "compatibility": 83,
+    "online": false,
+    "gender": "f"
+  }
+}
