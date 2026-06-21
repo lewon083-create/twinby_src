@@ -73,8 +73,6 @@
   - **Frida Gadget**: встроить gadget в APK
   - **Dart-уровень**: хук `HttpClient.badCertificateCallback`
 
-**Рекомендуемый подход**: APK repackaging с `android:debuggable=true` + user CA certificate + v3 скрипт для Java-слоя.
-
 ---
 
 ## Ключевые обфусцированные классы
